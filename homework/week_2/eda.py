@@ -21,9 +21,8 @@ from numpy import percentile
 data = pd.read_csv("input.csv")
 
 
-''' CLEAN and precprocess data '''
+''' CLEANS and precprocess data '''
 # convert Infant column to float and replace missing values 
-
 infant_mortailty_column =  data['Infant mortality (per 1000 births)']
 infant_mortailty_column =  infant_mortailty_column.replace(',','.', regex=True).astype(float)
 infant_mortailty_column =  infant_mortailty_column.replace(np.nan, 0)
@@ -40,9 +39,7 @@ region = data['Region']
 population = data['Pop. Density (per sq. mi.)']
 
 
-
-''' COMPUTE and print the mean, median and mode of the GDP data '''
-
+''' COMPUTES and prints the mean, median and mode of the GDP data '''
 meand_GDP = GDP_dollars_column.mean()
 median_GDP = GDP_dollars_column.median()
 mode_GDP = GDP_dollars_column.mode()
@@ -55,29 +52,25 @@ print("mode:   ", mode_GDP)
 print('\n')
 
 
-
-''' PRODUCE a histogram of the GDP data '''
-
+''' PRODUCES a histogram of the GDP data '''
 # set bins for gdp value and mean, median, mode and std
 bin_gdp = np.arange(start=0, stop=30000, step=1000)
 bin_gdp_other = np.arange(start=0, stop=30000, step=1000)
 
 # set details for plot histogram
-# plt.hist([GDP_dollars_column], bins=bin_gdp, color='lightblue', label='GDP', ec='black')
-# plt.hist(meand_GDP, bins=bin_gdp_other, color='red', label='mean')
-# plt.hist(median_GDP, bins=bin_gdp_other, color='purple', label='median')
-# plt.hist(mode_GDP, bins=bin_gdp_other, color='blue', label='mode')
-# plt.hist(std_GDP, bins=bin_gdp_other, color='green', label='std')
-# plt.title('GDP ($ per capita) dollars')
-# plt.xlabel('dollars')
-# plt.ylabel('per capita')
-# plt.legend(loc='upper right')
-# plt.show()
+plt.figure(200)
+plt.hist([GDP_dollars_column], bins=bin_gdp, color='lightblue', label='GDP', ec='black')
+plt.hist(meand_GDP, bins=bin_gdp_other, color='red', label='mean')
+plt.hist(median_GDP, bins=bin_gdp_other, color='purple', label='median')
+plt.hist(mode_GDP, bins=bin_gdp_other, color='blue', label='mode')
+plt.hist(std_GDP, bins=bin_gdp_other, color='green', label='std')
+plt.title('GDP ($ per capita) dollars')
+plt.xlabel('dollars')
+plt.ylabel('per capita')
+plt.legend(loc='upper right')
 
 
-
-''' COMPUTE and print the Five Number Summary of the Infant Mortality data '''
-
+''' COMPUTES and print the Five Number Summary of the Infant Mortality data '''
 minimum_infant_mortality = infant_mortailty_column.min()
 first_quartile_infant_mortality = percentile(infant_mortailty_column, 25)
 median_infant_mortality = infant_mortailty_column.median()
@@ -92,20 +85,18 @@ print("third quartile: ",third_quartile_infant_mortality)
 print("max:            ",maximum_infant_mortailty)
 print("\n")
 
-inf_mortality_data = [minimum_infant_mortality, first_quartile_infant_mortality, median_infant_mortality, third_quartile_infant_mortality, maximum_infant_mortailty]
 
-
-
-''' PRODUCE a box plot of the infant mortality data '''
-
+''' PRODUCES a box plot of the infant mortality data '''
 bin_ifm = np.arange(start=0, stop=200, step=25)
-plt.boxplot(inf_mortality_data)
+plt.figure(300)
+plt.boxplot(infant_mortailty_column)
+plt.title("Infant mortality (per 1000 births)")
+plt.ylabel("Five Number Summary, per 1000 births")
+plt.xlabel("Infant Mortality Column")
 plt.show()
 
 
-
-''' WRITE a .json file in the correct format '''
-
+''' WRITES a .json file in the correct format '''
 # set diciontaries for json file 
 dictionary_all = {}
 dict_details = {}
@@ -145,7 +136,7 @@ for index,row in data.iterrows():
         dictionary_all.update({country[index] : dict_details[index]})
     except: 
         dictionary_all.update({country[index] : default})
-print("\n")
+
 
 # write dictionary to json file
 with open('data.json', 'w') as outfile:
