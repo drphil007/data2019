@@ -15,55 +15,91 @@ Purpose: This file...
 <!DOCTYPE html>
 <html>
 <head>
-    <title> </title>
+    <title>Javascript</title>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
 </head>
-
-
 <body>
+    <h1>Highest wind gusts (m/s) at Schiphol, Netherlands (2018)</h1>
+    <canvas id="line-chart" width="1100" height="900" style="border:1px solid #d3d3d3;">
+    </canvas>
     <script>
-        
-        var myArr= []
+
+        var jsonArr= []
 
         // Loading the data in js
-        var fileName = "data.json";
+        var fileName = "data_test.json";
         var txtFile = new XMLHttpRequest();
         txtFile.onreadystatechange = function() {
             if (txtFile.readyState === 4 && txtFile.status == 200) {
                 // console.log(JSON.parse(txtFile.responseText));
-                var myArr = JSON.parse(txtFile.responseText);
-                // console.log(myArr)
-                myFunction(myArr);
+                var jsonArr = JSON.parse(txtFile.responseText);
+                // console.log(jsonArr)
+                myFunction(jsonArr);
             }
         }
         txtFile.open("GET", fileName);
         txtFile.send();
+
+        var windArray = []
+        var datumArray = []
  
         // Transform data into useful datastructure 
-        function myFunction(myArr) {
+        function myFunction(jsonArr) {
 
-            const entries = Object.entries(myArr)
-            // console.log(entries)
+            const obj = Object.values(jsonArr)
+            // console.log(obj)
 
-            for (let city of entries) {
-                console.log(city)
-
-
+            for (let obj_index of obj) {
+                // console.log(obj_index)
+            
+                // take value where each key is datum and push to array
+                var index_datum = 0;
+                var key_datum = Object.keys(obj_index)[index_datum];
+                value_datum = obj_index[key_datum];
+                datumArray.push(value_datum);
+                
+                // take value where each key is windstoot and push to array 
+                var index_wind = 1;
+                var key_wind = Object.keys(obj_index)[index_wind];
+                value_wind = obj_index[key_wind];
+                // console.log(key_wind, value_wind);
+                windArray.push(value_wind);
+        
+            }
+            
+            if (windArray != null && datumArray != null){
+                createTransform(datumArray, windArray);
             }
         }
 
         // Transforming data to screen coordinates 
-        function createTransform(domain, range){
-            // domain is a two-element array of the data bounds [domain_min, domain_max]
-            // range is a two-element array of the screen bounds [range_min, range_max]
-            // this gives you two equations to solve:
-            // range_min = alpha * domain_min + beta
-            // range_max = alpha * domain_max + beta
-                // a solution would be:
+        function createTransform(datumArray, windArray){
+            
+            // set length wind array for 
+            var range_length = windArray.length;
 
-            var domain_min = domain[0]
-            var domain_max = domain[1]
-            var range_min = range[0]
-            var range_max = range[1]
+            // find max in range
+            var range_max = 0;
+            for(var i = 0; i < range_length; i++){
+                if(windArray[i] > range_max){
+                    range_max = windArray[i];
+                }
+            }
+
+            // find min in range
+            range_min = range_max;
+            for(var i = 0; i < range_length; i++){
+                if(windArray[i] < range_min){
+                    range_min = windArray[i];
+                }
+            }
+
+            monthArray = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];
+            var domain_length = monthArray.length;
+            
+            var domain_max = domain_length;
+            var domain_min = 0;
 
             // formulas to calculate the alpha and the beta
             var alpha = (range_max - range_min) / (domain_max - domain_min)
@@ -71,14 +107,95 @@ Purpose: This file...
 
             // returns the function for the linear transformation (y= a * x + b)
             return function(x){
-            return alpha * x + beta;
+                 return alpha * x + beta;
             }
+
+            setFigure(range_length, range_max, windArray);
         }
 
+        function setFigure(range_length, range_max, windArray){
+            // Plot line chart
+            const canvas = document.getElementById('line-chart');
+            const ctx = canvas.getContext('2d');
+
+            // set start and end figure
+            var figure_top = 50;
+            var figure_bottom = 750;
+            var figure_left = 0;
+            var figure_right = 950;
+            var figure_height = 700;
+            var figure_width = 1000;
+
+            // clear canvas
+            ctx.clearRect(0, 0, 500, 400);
+            ctx.font = "22px Georgia";
+
+            // set x and y 
+            ctx.beginPath();
+            ctx.moveTo(figure_left, figure_bottom);
+            ctx.lineTo(figure_right, figure_bottom);
+            ctx.lineTo(figure_right, figure_top);
+            ctx.stroke();
+            
+            // draw reference lines
+            ctx.beginPath();
+            ctx.strokeStyle = '#BBB';
+            ctx.moveTo(figure_left, figure_top);
+            ctx.lineTo(figure_right, figure_top);
+            ctx.stroke();
+            
+            // set range_max y value at top
+            ctx.fillText(range_max, figure_right + 25, figure_top);
+            ctx.stroke();
+
+            // set 3/4 reference line
+            ctx.beginPath();
+            ctx.moveTo(figure_left, (figure_height) / 4 * 3 + figure_top);
+            ctx.lineTo(figure_right, (figure_height) / 4 * 3 + figure_top);
+            ctx.stroke();
+            ctx.fillText(range_max / 4 * 3, figure_right + 25, (figure_height) / 4 + figure_top);
+            ctx.stroke();
+
+            // set 1/2 line
+            ctx.beginPath();
+            ctx.moveTo(figure_left, (figure_height) / 2 + figure_top);
+            ctx.lineTo(figure_right, (figure_height) / 2 + figure_top);
+            ctx.stroke();
+            // set 1/2 y value
+            ctx.fillText(range_max / 2, figure_right + 25, (figure_height) / 2 + figure_top);
+            ctx.stroke();
+
+            // set 1/4 bottom line
+            ctx.beginPath();
+            ctx.moveTo(figure_left, (figure_height) / 4 + figure_top);
+            ctx.lineTo(figure_right, (figure_height) / 4 + figure_top);
+            ctx.stroke();
+            // set 1/4 y value
+            ctx.fillText(range_max / 4, figure_right + 25, (figure_height) / 4 * 3 + figure_top);
+            ctx.stroke
+
+            // set x and y text 
+            ctx.fillText("Month", figure_left + 400, figure_bottom + 100);
+            ctx.fillText("Wind(m/s)", figure_right + 50, figure_height / 2);
+           
+            // set x as
+            for(var month = 0; month < domain_length; month++){  
+                ctx.fillText( (monthArray[month]), (figure_right / domain_length * month), figure_bottom + 30);
+            }
+            ctx.stroke();
+            
+            // set lines
+            ctx.beginPath();
+            ctx.lineJoin = "round";
+            ctx.strokeStyle = "blue";
+            ctx.moveTo(figure_left, (figure_height - windArray[0] / range_max * figure_height) + figure_top);
+
+            // draw coordinates
+            for(var i = 1; i < range_length; i++){
+                ctx.lineTo(figure_right / range_length * i + figure_left, (figure_height - windArray[i] / range_max * figure_height) + figure_top);
+            } 
+            ctx.stroke();
+        }
     </script>
-    <canvas id="line-chart" widt="300" height="=300">
-    </canvas>
 </body>
-
-
 </html>
