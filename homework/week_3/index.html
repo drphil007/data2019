@@ -2,40 +2,32 @@
 Name: Philine Wairata
 Studentnumber: 10517863
 
-Purpose: This file...
-
-* Loading the data
-* Reformatting the data 
-* The canvas-element 
-* Transforming the data to screen coordinates
-* Publish to Github Pages
-
+This file loads and transforms data to plot
+the following line chart with JavaScript: "Highest wind gusts(m/s) at Schiphol, Netherlands(2018)"
 -->
 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Javascript</title>
+    <title>Javascript Intro</title>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
 </head>
-<body>
+<body bgcolor="#E6E6FA">
     <h1>Highest wind gusts (m/s) at Schiphol, Netherlands (2018)</h1>
-    <canvas id="line-chart" width="1100" height="900" style="border:1px solid #d3d3d3;">
+    <canvas id="line-chart" width="1100" height="900">
     </canvas>
     <script>
 
+        // Loading the data in js
         var jsonArr= []
 
-        // Loading the data in js
         var fileName = "data_test.json";
         var txtFile = new XMLHttpRequest();
         txtFile.onreadystatechange = function() {
             if (txtFile.readyState === 4 && txtFile.status == 200) {
-                // console.log(JSON.parse(txtFile.responseText));
                 var jsonArr = JSON.parse(txtFile.responseText);
-                // console.log(jsonArr)
-                myFunction(jsonArr);
+                pushArray(jsonArr);
             }
         }
         txtFile.open("GET", fileName);
@@ -44,14 +36,14 @@ Purpose: This file...
         var windArray = []
         var datumArray = []
  
-        // Transform data into useful datastructure 
-        function myFunction(jsonArr) {
+
+        function pushArray(jsonArr) {
+        /* Pushes data into useful arrays */
 
             const obj = Object.values(jsonArr)
-            // console.log(obj)
 
+            // takes key and value pair and pushes to relevant array
             for (let obj_index of obj) {
-                // console.log(obj_index)
             
                 // take value where each key is datum and push to array
                 var index_datum = 0;
@@ -65,7 +57,6 @@ Purpose: This file...
                 value_wind = obj_index[key_wind];
                 // console.log(key_wind, value_wind);
                 windArray.push(value_wind);
-        
             }
             
             if (windArray != null && datumArray != null){
@@ -73,9 +64,10 @@ Purpose: This file...
             }
         }
 
-        // Transforming data to screen coordinates 
+
         function createTransform(datumArray, windArray){
-            
+        /* Transforms data to screen coordinates */    
+
             // set length wind array for 
             var range_length = windArray.length;
 
@@ -95,25 +87,17 @@ Purpose: This file...
                 }
             }
 
+            // set array for domain containing months
             monthArray = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];
             var domain_length = monthArray.length;
-            
-            var domain_max = domain_length;
-            var domain_min = 0;
 
-            // formulas to calculate the alpha and the beta
-            var alpha = (range_max - range_min) / (domain_max - domain_min)
-            var beta = range_max - alpha * domain_max
-
-            // returns the function for the linear transformation (y= a * x + b)
-            return function(x){
-                 return alpha * x + beta;
-            }
-
-            setFigure(range_length, range_max, windArray);
+            setFigure(range_length, domain_length, range_max, windArray);
         }
 
-        function setFigure(range_length, range_max, windArray){
+
+        function setFigure(range_length, domain_length, range_max, windArray){
+        /* Draws canvas and line chart */
+
             // Plot line chart
             const canvas = document.getElementById('line-chart');
             const ctx = canvas.getContext('2d');
@@ -128,7 +112,7 @@ Purpose: This file...
 
             // clear canvas
             ctx.clearRect(0, 0, 500, 400);
-            ctx.font = "22px Georgia";
+            ctx.font = "bold 22px Georgia";
 
             // set x and y 
             ctx.beginPath();
@@ -176,7 +160,8 @@ Purpose: This file...
 
             // set x and y text 
             ctx.fillText("Month", figure_left + 400, figure_bottom + 100);
-            ctx.fillText("Wind(m/s)", figure_right + 50, figure_height / 2);
+            ctx.fillText("Wind", figure_right + 75, figure_height / 2.3);
+            ctx.fillText("(m/s)", figure_right + 75, figure_height / 2.175);
            
             // set x as
             for(var month = 0; month < domain_length; month++){  
@@ -196,6 +181,7 @@ Purpose: This file...
             } 
             ctx.stroke();
         }
+        
     </script>
 </body>
 </html>
