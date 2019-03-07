@@ -1,0 +1,1466 @@
+{
+    "0": {
+        "datum: ": 20180101.0,
+        "hoogeste_windstoot: ": 200.0
+    },
+    "1": {
+        "datum: ": 20180102.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "2": {
+        "datum: ": 20180103.0,
+        "hoogeste_windstoot: ": 260.0
+    },
+    "3": {
+        "datum: ": 20180104.0,
+        "hoogeste_windstoot: ": 220.0
+    },
+    "4": {
+        "datum: ": 20180105.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "5": {
+        "datum: ": 20180106.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "6": {
+        "datum: ": 20180107.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "7": {
+        "datum: ": 20180108.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "8": {
+        "datum: ": 20180109.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "9": {
+        "datum: ": 20180110.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "10": {
+        "datum: ": 20180111.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "11": {
+        "datum: ": 20180112.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "12": {
+        "datum: ": 20180113.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "13": {
+        "datum: ": 20180114.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "14": {
+        "datum: ": 20180115.0,
+        "hoogeste_windstoot: ": 190.0
+    },
+    "15": {
+        "datum: ": 20180116.0,
+        "hoogeste_windstoot: ": 200.0
+    },
+    "16": {
+        "datum: ": 20180117.0,
+        "hoogeste_windstoot: ": 210.0
+    },
+    "17": {
+        "datum: ": 20180118.0,
+        "hoogeste_windstoot: ": 340.0
+    },
+    "18": {
+        "datum: ": 20180119.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "19": {
+        "datum: ": 20180120.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "20": {
+        "datum: ": 20180121.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "21": {
+        "datum: ": 20180122.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "22": {
+        "datum: ": 20180123.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "23": {
+        "datum: ": 20180124.0,
+        "hoogeste_windstoot: ": 210.0
+    },
+    "24": {
+        "datum: ": 20180125.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "25": {
+        "datum: ": 20180126.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "26": {
+        "datum: ": 20180127.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "27": {
+        "datum: ": 20180128.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "28": {
+        "datum: ": 20180129.0,
+        "hoogeste_windstoot: ": 220.0
+    },
+    "29": {
+        "datum: ": 20180130.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "30": {
+        "datum: ": 20180131.0,
+        "hoogeste_windstoot: ": 210.0
+    },
+    "31": {
+        "datum: ": 20180201.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "32": {
+        "datum: ": 20180202.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "33": {
+        "datum: ": 20180203.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "34": {
+        "datum: ": 20180204.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "35": {
+        "datum: ": 20180205.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "36": {
+        "datum: ": 20180206.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "37": {
+        "datum: ": 20180207.0,
+        "hoogeste_windstoot: ": 40.0
+    },
+    "38": {
+        "datum: ": 20180208.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "39": {
+        "datum: ": 20180209.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "40": {
+        "datum: ": 20180210.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "41": {
+        "datum: ": 20180211.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "42": {
+        "datum: ": 20180212.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "43": {
+        "datum: ": 20180213.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "44": {
+        "datum: ": 20180214.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "45": {
+        "datum: ": 20180215.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "46": {
+        "datum: ": 20180216.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "47": {
+        "datum: ": 20180217.0,
+        "hoogeste_windstoot: ": 50.0
+    },
+    "48": {
+        "datum: ": 20180218.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "49": {
+        "datum: ": 20180219.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "50": {
+        "datum: ": 20180220.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "51": {
+        "datum: ": 20180221.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "52": {
+        "datum: ": 20180222.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "53": {
+        "datum: ": 20180223.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "54": {
+        "datum: ": 20180224.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "55": {
+        "datum: ": 20180225.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "56": {
+        "datum: ": 20180226.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "57": {
+        "datum: ": 20180227.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "58": {
+        "datum: ": 20180228.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "59": {
+        "datum: ": 20180301.0,
+        "hoogeste_windstoot: ": 190.0
+    },
+    "60": {
+        "datum: ": 20180302.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "61": {
+        "datum: ": 20180303.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "62": {
+        "datum: ": 20180304.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "63": {
+        "datum: ": 20180305.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "64": {
+        "datum: ": 20180306.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "65": {
+        "datum: ": 20180307.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "66": {
+        "datum: ": 20180308.0,
+        "hoogeste_windstoot: ": 210.0
+    },
+    "67": {
+        "datum: ": 20180309.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "68": {
+        "datum: ": 20180310.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "69": {
+        "datum: ": 20180311.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "70": {
+        "datum: ": 20180312.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "71": {
+        "datum: ": 20180313.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "72": {
+        "datum: ": 20180314.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "73": {
+        "datum: ": 20180315.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "74": {
+        "datum: ": 20180316.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "75": {
+        "datum: ": 20180317.0,
+        "hoogeste_windstoot: ": 190.0
+    },
+    "76": {
+        "datum: ": 20180318.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "77": {
+        "datum: ": 20180319.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "78": {
+        "datum: ": 20180320.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "79": {
+        "datum: ": 20180321.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "80": {
+        "datum: ": 20180322.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "81": {
+        "datum: ": 20180323.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "82": {
+        "datum: ": 20180324.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "83": {
+        "datum: ": 20180325.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "84": {
+        "datum: ": 20180326.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "85": {
+        "datum: ": 20180327.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "86": {
+        "datum: ": 20180328.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "87": {
+        "datum: ": 20180329.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "88": {
+        "datum: ": 20180330.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "89": {
+        "datum: ": 20180331.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "90": {
+        "datum: ": 20180401.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "91": {
+        "datum: ": 20180402.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "92": {
+        "datum: ": 20180403.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "93": {
+        "datum: ": 20180404.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "94": {
+        "datum: ": 20180405.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "95": {
+        "datum: ": 20180406.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "96": {
+        "datum: ": 20180407.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "97": {
+        "datum: ": 20180408.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "98": {
+        "datum: ": 20180409.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "99": {
+        "datum: ": 20180410.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "100": {
+        "datum: ": 20180411.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "101": {
+        "datum: ": 20180412.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "102": {
+        "datum: ": 20180413.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "103": {
+        "datum: ": 20180414.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "104": {
+        "datum: ": 20180415.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "105": {
+        "datum: ": 20180416.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "106": {
+        "datum: ": 20180417.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "107": {
+        "datum: ": 20180418.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "108": {
+        "datum: ": 20180419.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "109": {
+        "datum: ": 20180420.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "110": {
+        "datum: ": 20180421.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "111": {
+        "datum: ": 20180422.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "112": {
+        "datum: ": 20180423.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "113": {
+        "datum: ": 20180424.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "114": {
+        "datum: ": 20180425.0,
+        "hoogeste_windstoot: ": 190.0
+    },
+    "115": {
+        "datum: ": 20180426.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "116": {
+        "datum: ": 20180427.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "117": {
+        "datum: ": 20180428.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "118": {
+        "datum: ": 20180429.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "119": {
+        "datum: ": 20180430.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "120": {
+        "datum: ": 20180501.0,
+        "hoogeste_windstoot: ": 240.0
+    },
+    "121": {
+        "datum: ": 20180502.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "122": {
+        "datum: ": 20180503.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "123": {
+        "datum: ": 20180504.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "124": {
+        "datum: ": 20180505.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "125": {
+        "datum: ": 20180506.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "126": {
+        "datum: ": 20180507.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "127": {
+        "datum: ": 20180508.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "128": {
+        "datum: ": 20180509.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "129": {
+        "datum: ": 20180510.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "130": {
+        "datum: ": 20180511.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "131": {
+        "datum: ": 20180512.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "132": {
+        "datum: ": 20180513.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "133": {
+        "datum: ": 20180514.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "134": {
+        "datum: ": 20180515.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "135": {
+        "datum: ": 20180516.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "136": {
+        "datum: ": 20180517.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "137": {
+        "datum: ": 20180518.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "138": {
+        "datum: ": 20180519.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "139": {
+        "datum: ": 20180520.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "140": {
+        "datum: ": 20180521.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "141": {
+        "datum: ": 20180522.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "142": {
+        "datum: ": 20180523.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "143": {
+        "datum: ": 20180524.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "144": {
+        "datum: ": 20180525.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "145": {
+        "datum: ": 20180526.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "146": {
+        "datum: ": 20180527.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "147": {
+        "datum: ": 20180528.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "148": {
+        "datum: ": 20180529.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "149": {
+        "datum: ": 20180530.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "150": {
+        "datum: ": 20180531.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "151": {
+        "datum: ": 20180601.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "152": {
+        "datum: ": 20180602.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "153": {
+        "datum: ": 20180603.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "154": {
+        "datum: ": 20180604.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "155": {
+        "datum: ": 20180605.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "156": {
+        "datum: ": 20180606.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "157": {
+        "datum: ": 20180607.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "158": {
+        "datum: ": 20180608.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "159": {
+        "datum: ": 20180609.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "160": {
+        "datum: ": 20180610.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "161": {
+        "datum: ": 20180611.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "162": {
+        "datum: ": 20180612.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "163": {
+        "datum: ": 20180613.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "164": {
+        "datum: ": 20180614.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "165": {
+        "datum: ": 20180615.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "166": {
+        "datum: ": 20180616.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "167": {
+        "datum: ": 20180617.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "168": {
+        "datum: ": 20180618.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "169": {
+        "datum: ": 20180619.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "170": {
+        "datum: ": 20180620.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "171": {
+        "datum: ": 20180621.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "172": {
+        "datum: ": 20180622.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "173": {
+        "datum: ": 20180623.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "174": {
+        "datum: ": 20180624.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "175": {
+        "datum: ": 20180625.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "176": {
+        "datum: ": 20180626.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "177": {
+        "datum: ": 20180627.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "178": {
+        "datum: ": 20180628.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "179": {
+        "datum: ": 20180629.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "180": {
+        "datum: ": 20180630.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "181": {
+        "datum: ": 20180701.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "182": {
+        "datum: ": 20180702.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "183": {
+        "datum: ": 20180703.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "184": {
+        "datum: ": 20180704.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "185": {
+        "datum: ": 20180705.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "186": {
+        "datum: ": 20180706.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "187": {
+        "datum: ": 20180707.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "188": {
+        "datum: ": 20180708.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "189": {
+        "datum: ": 20180709.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "190": {
+        "datum: ": 20180710.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "191": {
+        "datum: ": 20180711.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "192": {
+        "datum: ": 20180712.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "193": {
+        "datum: ": 20180713.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "194": {
+        "datum: ": 20180714.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "195": {
+        "datum: ": 20180715.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "196": {
+        "datum: ": 20180716.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "197": {
+        "datum: ": 20180717.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "198": {
+        "datum: ": 20180718.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "199": {
+        "datum: ": 20180719.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "200": {
+        "datum: ": 20180720.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "201": {
+        "datum: ": 20180721.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "202": {
+        "datum: ": 20180722.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "203": {
+        "datum: ": 20180723.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "204": {
+        "datum: ": 20180724.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "205": {
+        "datum: ": 20180725.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "206": {
+        "datum: ": 20180726.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "207": {
+        "datum: ": 20180727.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "208": {
+        "datum: ": 20180728.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "209": {
+        "datum: ": 20180729.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "210": {
+        "datum: ": 20180730.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "211": {
+        "datum: ": 20180731.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "212": {
+        "datum: ": 20180801.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "213": {
+        "datum: ": 20180802.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "214": {
+        "datum: ": 20180803.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "215": {
+        "datum: ": 20180804.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "216": {
+        "datum: ": 20180805.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "217": {
+        "datum: ": 20180806.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "218": {
+        "datum: ": 20180807.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "219": {
+        "datum: ": 20180808.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "220": {
+        "datum: ": 20180809.0,
+        "hoogeste_windstoot: ": 230.0
+    },
+    "221": {
+        "datum: ": 20180810.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "222": {
+        "datum: ": 20180811.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "223": {
+        "datum: ": 20180812.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "224": {
+        "datum: ": 20180813.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "225": {
+        "datum: ": 20180814.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "226": {
+        "datum: ": 20180815.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "227": {
+        "datum: ": 20180816.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "228": {
+        "datum: ": 20180817.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "229": {
+        "datum: ": 20180818.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "230": {
+        "datum: ": 20180819.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "231": {
+        "datum: ": 20180820.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "232": {
+        "datum: ": 20180821.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "233": {
+        "datum: ": 20180822.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "234": {
+        "datum: ": 20180823.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "235": {
+        "datum: ": 20180824.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "236": {
+        "datum: ": 20180825.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "237": {
+        "datum: ": 20180826.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "238": {
+        "datum: ": 20180827.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "239": {
+        "datum: ": 20180828.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "240": {
+        "datum: ": 20180829.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "241": {
+        "datum: ": 20180830.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "242": {
+        "datum: ": 20180831.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "243": {
+        "datum: ": 20180901.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "244": {
+        "datum: ": 20180902.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "245": {
+        "datum: ": 20180903.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "246": {
+        "datum: ": 20180904.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "247": {
+        "datum: ": 20180905.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "248": {
+        "datum: ": 20180906.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "249": {
+        "datum: ": 20180907.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "250": {
+        "datum: ": 20180908.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "251": {
+        "datum: ": 20180909.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "252": {
+        "datum: ": 20180910.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "253": {
+        "datum: ": 20180911.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "254": {
+        "datum: ": 20180912.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "255": {
+        "datum: ": 20180913.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "256": {
+        "datum: ": 20180914.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "257": {
+        "datum: ": 20180915.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "258": {
+        "datum: ": 20180916.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "259": {
+        "datum: ": 20180917.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "260": {
+        "datum: ": 20180918.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "261": {
+        "datum: ": 20180919.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "262": {
+        "datum: ": 20180920.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "263": {
+        "datum: ": 20180921.0,
+        "hoogeste_windstoot: ": 250.0
+    },
+    "264": {
+        "datum: ": 20180922.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "265": {
+        "datum: ": 20180923.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "266": {
+        "datum: ": 20180924.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "267": {
+        "datum: ": 20180925.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "268": {
+        "datum: ": 20180926.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "269": {
+        "datum: ": 20180927.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "270": {
+        "datum: ": 20180928.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "271": {
+        "datum: ": 20180929.0,
+        "hoogeste_windstoot: ": 50.0
+    },
+    "272": {
+        "datum: ": 20180930.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "273": {
+        "datum: ": 20181001.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "274": {
+        "datum: ": 20181002.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "275": {
+        "datum: ": 20181003.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "276": {
+        "datum: ": 20181004.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "277": {
+        "datum: ": 20181005.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "278": {
+        "datum: ": 20181006.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "279": {
+        "datum: ": 20181007.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "280": {
+        "datum: ": 20181008.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "281": {
+        "datum: ": 20181009.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "282": {
+        "datum: ": 20181010.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "283": {
+        "datum: ": 20181011.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "284": {
+        "datum: ": 20181012.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "285": {
+        "datum: ": 20181013.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "286": {
+        "datum: ": 20181014.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "287": {
+        "datum: ": 20181015.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "288": {
+        "datum: ": 20181016.0,
+        "hoogeste_windstoot: ": 50.0
+    },
+    "289": {
+        "datum: ": 20181017.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "290": {
+        "datum: ": 20181018.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "291": {
+        "datum: ": 20181019.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "292": {
+        "datum: ": 20181020.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "293": {
+        "datum: ": 20181021.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "294": {
+        "datum: ": 20181022.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "295": {
+        "datum: ": 20181023.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "296": {
+        "datum: ": 20181024.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "297": {
+        "datum: ": 20181025.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "298": {
+        "datum: ": 20181026.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "299": {
+        "datum: ": 20181027.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "300": {
+        "datum: ": 20181028.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "301": {
+        "datum: ": 20181029.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "302": {
+        "datum: ": 20181030.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "303": {
+        "datum: ": 20181031.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "304": {
+        "datum: ": 20181101.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "305": {
+        "datum: ": 20181102.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "306": {
+        "datum: ": 20181103.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "307": {
+        "datum: ": 20181104.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "308": {
+        "datum: ": 20181105.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "309": {
+        "datum: ": 20181106.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "310": {
+        "datum: ": 20181107.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "311": {
+        "datum: ": 20181108.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "312": {
+        "datum: ": 20181109.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "313": {
+        "datum: ": 20181110.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "314": {
+        "datum: ": 20181111.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "315": {
+        "datum: ": 20181112.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "316": {
+        "datum: ": 20181113.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "317": {
+        "datum: ": 20181114.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "318": {
+        "datum: ": 20181115.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "319": {
+        "datum: ": 20181116.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "320": {
+        "datum: ": 20181117.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "321": {
+        "datum: ": 20181118.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "322": {
+        "datum: ": 20181119.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "323": {
+        "datum: ": 20181120.0,
+        "hoogeste_windstoot: ": 180.0
+    },
+    "324": {
+        "datum: ": 20181121.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "325": {
+        "datum: ": 20181122.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "326": {
+        "datum: ": 20181123.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "327": {
+        "datum: ": 20181124.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "328": {
+        "datum: ": 20181125.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "329": {
+        "datum: ": 20181126.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "330": {
+        "datum: ": 20181127.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "331": {
+        "datum: ": 20181128.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "332": {
+        "datum: ": 20181129.0,
+        "hoogeste_windstoot: ": 140.0
+    },
+    "333": {
+        "datum: ": 20181130.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "334": {
+        "datum: ": 20181201.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "335": {
+        "datum: ": 20181202.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "336": {
+        "datum: ": 20181203.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "337": {
+        "datum: ": 20181204.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "338": {
+        "datum: ": 20181205.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "339": {
+        "datum: ": 20181206.0,
+        "hoogeste_windstoot: ": 150.0
+    },
+    "340": {
+        "datum: ": 20181207.0,
+        "hoogeste_windstoot: ": 190.0
+    },
+    "341": {
+        "datum: ": 20181208.0,
+        "hoogeste_windstoot: ": 210.0
+    },
+    "342": {
+        "datum: ": 20181209.0,
+        "hoogeste_windstoot: ": 200.0
+    },
+    "343": {
+        "datum: ": 20181210.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "344": {
+        "datum: ": 20181211.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "345": {
+        "datum: ": 20181212.0,
+        "hoogeste_windstoot: ": 80.0
+    },
+    "346": {
+        "datum: ": 20181213.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "347": {
+        "datum: ": 20181214.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "348": {
+        "datum: ": 20181215.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "349": {
+        "datum: ": 20181216.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "350": {
+        "datum: ": 20181217.0,
+        "hoogeste_windstoot: ": 100.0
+    },
+    "351": {
+        "datum: ": 20181218.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "352": {
+        "datum: ": 20181219.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "353": {
+        "datum: ": 20181220.0,
+        "hoogeste_windstoot: ": 130.0
+    },
+    "354": {
+        "datum: ": 20181221.0,
+        "hoogeste_windstoot: ": 220.0
+    },
+    "355": {
+        "datum: ": 20181222.0,
+        "hoogeste_windstoot: ": 160.0
+    },
+    "356": {
+        "datum: ": 20181223.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "357": {
+        "datum: ": 20181224.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "358": {
+        "datum: ": 20181225.0,
+        "hoogeste_windstoot: ": 90.0
+    },
+    "359": {
+        "datum: ": 20181226.0,
+        "hoogeste_windstoot: ": 70.0
+    },
+    "360": {
+        "datum: ": 20181227.0,
+        "hoogeste_windstoot: ": 40.0
+    },
+    "361": {
+        "datum: ": 20181228.0,
+        "hoogeste_windstoot: ": 60.0
+    },
+    "362": {
+        "datum: ": 20181229.0,
+        "hoogeste_windstoot: ": 170.0
+    },
+    "363": {
+        "datum: ": 20181230.0,
+        "hoogeste_windstoot: ": 120.0
+    },
+    "364": {
+        "datum: ": 20181231.0,
+        "hoogeste_windstoot: ": 110.0
+    },
+    "365": {
+        "datum: ": 20190101.0,
+        "hoogeste_windstoot: ": 180.0
+    }
+}
