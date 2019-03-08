@@ -25,6 +25,10 @@ Index.html displays a bar chart of OECD dataset
                   font-family: sans-serif;
                   font-size: 11px;
               }
+
+              .bar:hover {
+                fill: blue;
+              }
         </style>
     </head>
     <body>
@@ -37,12 +41,12 @@ Index.html displays a bar chart of OECD dataset
 
             d3.select("body")
             .append("p")
-            .text("")
+            .text("Global growth 1960-2016")
             .style("color", "grey");
 
             d3.select("body")
               .append("p")
-              .text("Description of dataset and visualization")
+              .text("A bar chart showing global wealth from 1960 to 2016, using standard OECD values to measure global growth.")
               .style("color", "grey");
 
 
@@ -116,6 +120,7 @@ Index.html displays a bar chart of OECD dataset
                 .attr("transform", "translate(" + widthPad + ",0)")
                 .call(yAxis);
 
+              
               // set bars
               svg.selectAll("rect")
                  .data(data)
@@ -128,7 +133,21 @@ Index.html displays a bar chart of OECD dataset
                  .attr("width", width / data.length)
                  .attr("height", function(d) 
                       { return height - yScale(d.Value); })
-                 .attr("fill", "red"); 
+                 .attr("fill", "red")
+                //  NOTE: tooltip not working 
+                 .on('mouseover', function(d) {
+                    d3.select(this)
+                    .select("rect")
+                    .style("fill","blue")
+                    .html(function(d) {
+                      return "<strong>Frequency:</strong> <span style='color:red'>" + d.TIME + d.Value + "</span>";
+                    })
+                 })
+                 .on('mouseout', function(d) {
+                     d3.select(this)
+                    .style("opacity", 0)
+                  });
+
             }
         </script>
     </body>
