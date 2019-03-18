@@ -1,0 +1,1258 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Bevolking, huishoudens en bevolkingsontwikkeling; vanaf 1899";"Bevolking; vanaf 1899";"37556";"Bevolking, huishoudens, geboorte, sterfte, verhuisde personen, 
+huwelijkssluiting en huwelijksontbinding in Nederland ";"2017-12-29T02:00:00";"Verbetering";"";"nl";"CBS";"Pervijfjaar";"1899 - 2017";"
+Deze tabel bevat de belangrijkste kerncijfers over de bevolking, huishoudens en bevolkingsontwikkeling in Nederland.
+
+In de tabel worden de volgende gegevens onderscheiden:
+- Bevolking; 
+- Particuliere huishoudens;
+- Geboorte;
+- Sterfte;
+- Verhuisde personen;
+- Huwelijkssluiting;
+- Huwelijksontbinding;
+- Wijziging van nationaliteit.
+
+Het CBS herziet de tabellen van de bevolkings- en huishoudensstatistieken. Het doel is de tabelinformatie overzichtelijker te presenteren en het aantal tabellen te verminderen.  
+
+Gegevens beschikbaar vanaf: 1899
+
+Status van de cijfers:
+Alle cijfers in de tabel zijn definitief.
+
+Wijzigingen per 29 december 2017:
+De definitieve cijfers van het onderwerp 'Overledenen naar doodsoorzaak' van 2016 zijn toegevoegd. 
+
+Wijzigingen per 18 oktober 2017:
+De termen autochtoon en allochtoon zijn herzien. In plaats daarvan spreekt het CBS voortaan van personen met een Nederlandse of een migratieachtergrond. Daarom zijn in deze tabel de benamingen van de classificatie aangepast. 
+
+Wijzigingen per 6 oktober 2017:
+- Het cijfer van de 'Bevolking op 1 januari' naar 'Migratieachtergrond: Suriname' in 2015 is gecorrigeerd. Deze correctie is het gevolg van een afrondingsfout. De correctie heeft geen gevolgen voor de overige cijfers in de tabel.
+- De cijfers bij het onderwerp 'Sterfte' en de selectie 'Overledenen naar doodsoorzaak' zijn voor het jaar 2014 gecorrigeerd. Deze correcties zijn het gevolg doordat niet de juiste gemiddelde bevolking is genomen. De correcties hebben geen gevolgen voor de overige cijfers in de tabel.
+
+Wanneer komen er nieuwe cijfers uit?
+De cijfers over de bevolkingsontwikkeling van 2017 tot en met 2021 en de bevolking per 1 januari 2018 tot en met 1 januari 2022 worden in het vierde kwartaal van 2022 gepubliceerd.
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+1. TOELICHTING
+
+Deze tabel bevat de belangrijkste kerncijfers over de bevolking, huishoudens en bevolkingsontwikkeling in Nederland.
+
+In de tabel worden de volgende gegevens onderscheiden:
+- Bevolking; 
+- Particuliere huishoudens;
+- Geboorte;
+- Sterfte;
+- Verhuisde personen;
+- Huwelijkssluiting;
+- Huwelijksontbinding;
+- Wijziging van nationaliteit.
+
+Het CBS herziet de tabellen van de bevolkings- en huishoudensstatistieken. Het doel is de tabelinformatie overzichtelijker te presenteren en het aantal tabellen te verminderen.  
+
+Gegevens beschikbaar vanaf: 1899
+
+Status van de cijfers:
+Alle cijfers in de tabel zijn definitief.
+
+Wijzigingen per 29 december 2017:
+De definitieve cijfers van het onderwerp 'Overledenen naar doodsoorzaak' van 2016 zijn toegevoegd. 
+
+Wijzigingen per 18 oktober 2017:
+De termen autochtoon en allochtoon zijn herzien. In plaats daarvan spreekt het CBS voortaan van personen met een Nederlandse of een migratieachtergrond. Daarom zijn in deze tabel de benamingen van de classificatie aangepast. 
+
+Wijzigingen per 6 oktober 2017:
+- Het cijfer van de 'Bevolking op 1 januari' naar 'Migratieachtergrond: Suriname' in 2015 is gecorrigeerd. Deze correctie is het gevolg van een afrondingsfout. De correctie heeft geen gevolgen voor de overige cijfers in de tabel.
+- De cijfers bij het onderwerp 'Sterfte' en de selectie 'Overledenen naar doodsoorzaak' zijn voor het jaar 2014 gecorrigeerd. Deze correcties zijn het gevolg doordat niet de juiste gemiddelde bevolking is genomen. De correcties hebben geen gevolgen voor de overige cijfers in de tabel.
+
+Wanneer komen er nieuwe cijfers uit?
+De cijfers over de bevolkingsontwikkeling van 2017 tot en met 2021 en de bevolking per 1 januari 2018 tot en met 1 januari 2022 worden in het vierde kwartaal van 2022 gepubliceerd.
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+
+Bevolking
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage. In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.
+
+Echtscheiding
+Ontbinding van het huwelijk door een beschikking van de rechter. 
+Exclusief ontbindingen van partnerschapsregistraties.
+Voor de periode tot en met september 1994 ging het om alle beschikkingen door een Nederlandse rechter, ingeschreven in de registers van de burgerlijke stand. Het maakte daarbij niet uit of de bij die echtscheiding betrokken personen al dan niet inwoners van Nederland waren. 
+Vanaf oktober 1994 gaat het om de echtscheidingen waarvan ten minste één van de partners staat ingeschreven in het bevolkingsregister van een Nederlandse gemeente. Het maakt hierbij niet uit of de echtscheiding al dan niet door een Nederlandse rechter is uitgesproken. 
+Een echtscheidingsbeschikking wordt ingeschreven in het echtscheidingsregister van de gemeente van huwelijkssluiting. 
+Huwelijken die in het buitenland zijn gesloten en in Nederland zijn geregistreerd kunnen in Nederland worden ontbonden door inschrijving van de echtscheidingsbeschikking in het echtscheidingsregister van de gemeente 
+'s-Gravenhage.
+
+Geregistreerd partnerschap
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.
+
+Huwelijkssluiting
+Het aangaan van een huwelijk. 
+Exclusief partnerschapsregistraties.
+Sinds 1 april 2001 staat het huwelijk ook open voor paren van gelijk geslacht. 
+Om een huwelijk in Nederland te mogen aangaan moeten beide partners de leeftijd van achttien jaren hebben bereikt. Onder bepaalde omstandigheden kan echter al tijdens de minderjarigheid een huwelijk worden gesloten. Dit kan wanneer beide aanstaande echtgenoten tenminste 16 jaar oud zijn en de bruid zwanger is. Ook buiten de genoemde uitzonderingssituaties kan het gewenst zijn een huwelijk van minderjarigen te sluiten. De Minister van Justitie kan om belangrijke redenen ontheffing verlenen.
+Welke huwelijkssluitingen zijn geteld? 
+Vanaf oktober 1994: huwelijken waarbij ten minste één van de partners in het bevolkingsregister van een Nederlandse gemeente staat ingeschreven, ongeacht het land waar het huwelijk is gesloten.
+Vanaf 1953 tot en met september 1994: in Nederland gesloten huwelijken, ongeacht of de partners al dan niet in het bevolkingsregister van een Nederlandse gemeente stonden ingeschreven. 
+Voor de periode 1900-1952 geldt de definitie die gelijk is aan de definitie voor de cijfers vanaf oktober 1994.
+Voor de periode 1900 tot 1953 geldt de definitie die gelijk is aan de definitie voor de cijfers vanaf oktober 1994.
+
+Huwelijksontbinding
+Beëindiging van het huwelijk door overlijden of echtscheiding.
+Exclusief beëindigingen van geregistreerde partnerschappen.
+
+Migratie
+Verhuizing van een persoon naar een ander woonadres in binnen- of buitenland.
+
+Particulier huishouden
+Eén of meer personen die samen een woonruimte bewonen en zichzelf, dus niet-bedrijfsmatig, voorzien in de dagelijkse levensbehoeften.
+
+Wijziging van nationaliteit
+Verandering van de nationaliteit (staatsburgerschap). 
+Voor de jaren 1946 tot 1985 conform de bepalingen van de Wet op het Nederlanderschap en ingezetenschap van 12 december 1892, Staatsblad 268.
+Voor de jaren 1946 tot 1977 alleen naturalisaties.
+Vanaf 1977 en volgende is dit uitgebreid met wijzigingen van nationaliteit als gevolg van andere regelingen zoals de toescheidingsovereenkomst met Suriname en de wijzigingen van nationaliteit door huwelijk en adoptie.
+Vanaf 1985 conform de m.i.v. 1 januari 1985 van kracht geworden bepalingen van de Rijkswet op het Nederlanderschap van 19 december 1984, Staatsblad 628.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+
+<a href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=7461bev/""/>Bevolking; geslacht, leeftijd en burgerlijke staat, 1 januari</a>
+<a href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=37325/""/>Bevolking; geslacht, leeftijd, herkomstgroepering en generatie,1 januari </a>
+<a href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=37312/""/>Huishoudens; grootte, positie in het huishouden, 1 januari 1995-2013 </a>
+<a Href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=03743/""/>Bevolking; geslacht, leeftijd en nationaliteit op 1 januari</a>
+<a Href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=37422NED/""/>Geboorte; kerncijfers </a>
+<a href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=37979ned/""/>Overledenen; kerncijfers </a>
+<a href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&PA=37772NED/""/>Huwen en partnerschapsregistraties; kerncijfers</a>
+<a href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=37425NED/""/>Huwelijksontbindingen; door echtscheiding en door overlijden</a>
+<a href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=37199NED/""/>Nationaliteitswijziging; geslacht, leeftijd, soort regeling, verblijfsduur</a>
+<a href=/""/http://statline.cbs.nl/StatWeb/publication/?DM=SLNL&&PA=03742/""/>Immi- en emigratie naar geboorteland, leeftijd (31 december) en geslacht</a>
+<a href='http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=82899ned'>Overledenen; doodsoorzaak, kwartaal en jaar overlijden</a>
+
+Relevant artikel:
+<a href='https://www.cbs.nl/nl-nl/achtergrond/2008/02/210-duizend-oorlogsslachtoffers'>210 duizend oorlogsslachtoffers</a>
+
+Algemene informatie over de bevolking is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/maatschappij/bevolking'>Bevolking</a>.
+
+4. BRONNEN EN METHODEN
+
+Trendbreuk (personen in) particuliere huishoudens
+Door de verbeterde waarneming van personen in institutionele huishoudens treedt vanaf 2014 een trendbreuk op in de ontwikkeling van het aantal eenpersoonshuishoudens/alleenstaanden. Circa 35 duizend personen die eerst voornamelijk als alleenstaanden getypeerd waren, verschuiven nu naar de institutionele huishoudens. Het aantal alleenstaanden steeg daardoor van 2013 op 2014 met maar duizend personen. Van 2012 op 2013 was die stijging nog 41 duizend personen. Ook de totale stijging van het aantal huishoudens liep als gevolg hiervan terug van 57 duizend van 2012 op 2013 naar 21 duizend van 2013 op 2014.
+Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode worden voor het bepalen van de huishoudenssamenstelling naast de gegevens uit het gemeentelijke bevolkingsregister ook belastingdienstgegevens over samenwonende paren gebruikt. De uitkomsten op basis van de nieuwe methode sluiten goed aan op de voorgaande uitkomsten, maar er treden vanaf 2011 wel kleine verschuivingen op in het aantal huishoudens naar samenstelling. De grootste verandering betreft het aantal overige huishoudens en de niet-gehuwde paren. In 2011 valt het aantal overige huishoudens 10 duizend lager uit dan in 2010. Het aantal niet gehuwde paren valt navenant hoger uit.
+
+Trendbreuk burgerlijke staat (m.b.t. stand van de bevolking of huishoudens)
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'verweduwd na partnerschap' en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt, welke in de meeste gevallen ongehuwd was. Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Trendbreuk burgerlijke staat (m.b.t. bevolkingsontwikkeling)
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gehuwd, gescheiden en verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'partnerschap', 'verweduwd na partnerschap' en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was. Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Trendbreuk buitenlandse migratiecijfers
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+Trendbreuk huwelijkssluitingen en huwende personen
+Door een verbetering in het productieproces is vanaf 2010 een stijging zichtbaar in de cijfers met betrekking tot huwelijkssluitingen en huwende personen. Met ingang van 2010 worden vooral in het buitenland gesloten huwelijken beter waargenomen.
+
+Trendbreuk nagekomen berichten 
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. 
+Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek.
+
+De beschrijving van de verschillende onderzoeken zijn te vinden bij de korte onderzoeksbeschrijvingen: 
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/bevolkingsstatistiek'>Bevolkingsstatistiek</a>;
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/huishoudensstatistiek'>Huishoudensstatistiek</a>;
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/doodsoorzakenstatistiek'>Doodsoorzakenstatistiek</a>;
+- <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/enquete-beroepsbevolking--ebb--'>Enquête Beroepsbevolking</a>.
+
+De gegevens van niet-Nederlanders over de jaren 1956 tot 1969 en 1973 tot 1976 zijn afkomstig van het Ministerie van Justitie.
+
+De bevolkingsontwikkeling gegevens zijn vanaf 2014 afkomstig uit het <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/stelsel-van-sociaal-statistische-bestanden--ssb--'>Stelsel van Sociaal-statistische Bestanden (SSB)</a>. 
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag / Heerlen
+Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.";"ts=1513603460794&graphtype=Table&r=Topics&k=Perioden";"$filter=((Perioden eq '1900JJ00') or (Perioden eq '1910JJ00') or (Perioden eq '1920JJ00') or (Perioden eq '1930JJ00') or (Perioden eq '1940JJ00') or (Perioden eq '1950JJ00') or (Perioden eq '1960JJ00') or (Perioden eq '1970JJ00') or (Perioden eq '1980JJ00') or (Perioden eq '1990JJ00') or (Perioden eq '2000JJ00') or (Perioden eq '2010JJ00') or (Perioden eq '2016JJ00') or (Perioden eq '2017JJ00'))&$select=Perioden, MannenEnVrouwen_1, Mannen_2, Vrouwen_3, TotaalBevolking_4, k_0Tot20Jaar_5, k_20Tot45Jaar_6, k_45Tot65Jaar_7, k_65Tot80Jaar_8, k_80JaarOfOuder_9, GroeneDruk_10, GrijzeDruk_11, TotaleBevolking_12, Ongehuwd_13, Gehuwd_14, Verweduwd_15, Gescheiden_16, TotaalBevolking_17, NoordNederland_18, OostNederland_19, WestNederland_20, ZuidNederland_21, TotaalBevolking_22, InGemeentenMet5000Inwoners_23, InGemeentenMet5000Tot20000Inw_24, InGemeentenMet20000Tot50000Inw_25, InGemeentenMet50000Tot100000In_26, InGemeentenMet100000OfMeerInw_27, TotaalGemeenten_28, GemeentenMet5000Inwoners_29, GemeentenMet5000Tot20000Inwoners_30, GemeentenMet20000Tot50000Inwoners_31, GemeentenMet50000Tot100000Inw_32, GemeentenMet100000OfMeerInwoners_33, TotaalNietNederlands_34, Amerikaans_35, Belgisch_36, Brits_37, Duits_38, Italiaans_39, VoormaligJoegoslavisch_40, Marokkaans_41, Spaans_42, Turks_43, TotaalParticuliereHuishoudens_46, MannenEnVrouwen_47, Mannen_48, Vrouwen_49, Meerpersoonshuishouden_50, GemiddeldeHuishoudensgrootte_51, TotaalPersonenInHuishouden_52, KinderenInHuishouden_53, Levendgeborenen_54, Overledenen_55, Geboorteoverschot_56, Immigratie_57, EmigratieExclusiefAdministratieveC_58, Migratiesaldo_59, TotaleBevolkingsgroei_60, TotaleBevolkingsgroeiRelatief_61, Levendgeborenen_62, LevendgeborenenGeslachtsverhouding_63, LevendgeborenenRelatief_64, GemiddeldKindertalPerVrouw_65, TotaalLevendgeborenen_66, JongerDan20Jaar_67, k_20Tot25Jaar_68, k_25Tot30Jaar_69, k_30JaarOfOuder_70, k_1eKind_71, k_2eKind_72, k_3eKind_73, k_4eEnVolgendKind_74, LevendgeborenenMoederNietGehuwd_75, Overledenen_76, OverledenenRelatief_77, OverledenenGeslachtsverhouding_78, LevensverwachtingBijGeboorteMannen_79, LevensverwachtingBijGeboorteVrouwen_80, k_28OfMeerWekenRelatief_81, k_24OfMeerWekenRelatief_82, PerinataleSterfte24_83, PerinataleSterfte24Relatief_84, PerinataleSterfte28_85, PerinataleSterfte28Relatief_86, Sterfte4WekenNaDeGeboorte_87, Sterfte4WekenNaDeGeboorteRela_88, Sterfte1JaarNaDeGeboorte_89, Sterfte1JaarNaDeGeboorteRela_90, k_1Tot5Jaar_91, k_5Tot15Jaar_92, k_15Tot45Jaar_93, k_45Tot65Jaar_94, k_65Tot80Jaar_95, k_80JaarOfOuder_96, TotaalOverledenen_97, TotaalInfectieEnParasitaireZiekten_98, Tuberculose_99, TotaalKanker_100";"Table,Bar,Line";"Regulier";"CBS.";"2018-02-07T02:00:00";"3"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"1";;;"TopicGroup";"";"Bevolking op 1 januari";"Bevolking:
+De inwoners van Nederland.
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente.
+In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage. In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters  (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.";;;;;
+"2";;"1";"TopicGroup";"";"Naar geslacht";"Voor de jaren 1900, 1910, 1921 en 1931 zijn de gegevens ontleend aan de resultaten van de op 31 december 1899, 1909, 1920 en 1930 gehouden Volkstellingen.";;;;;
+"3";"1";"2";"Topic";"MannenEnVrouwen_1";"Mannen en vrouwen";;;"Double";"x 1 000";"0";"Impossible"
+"4";"2";"2";"Topic";"Mannen_2";"Mannen";;;"Double";"x 1 000";"0";"Impossible"
+"5";"3";"2";"Topic";"Vrouwen_3";"Vrouwen";;;"Double";"x 1 000";"0";"Impossible"
+"6";;"1";"TopicGroup";"";"Naar leeftijd";"Voor de jaren 1900, 1910, 1921 en 1931 zijn de gegevens ontleend aan de resultaten van de op 31 december 1899, 1909, 1920 en 1930 gehouden Volkstellingen.
+
+Leeftijd:
+Het aantal gehele jaren dat op 1 januari van het jaar van waarneming is verstreken sinds de geboortedatum van de persoon.
+Te berekenen als jaar van waarneming minus één, min het geboortejaar van de persoon.";;;;;
+"7";"4";"6";"Topic";"TotaalBevolking_4";"Totaal bevolking";;;"Double";"x 1 000";"0";"Impossible"
+"8";"5";"6";"Topic";"k_0Tot20Jaar_5";"0 tot 20 jaar";;;"Double";"x 1 000";"0";"Impossible"
+"9";"6";"6";"Topic";"k_20Tot45Jaar_6";"20 tot 45 jaar";;;"Double";"x 1 000";"0";"Impossible"
+"10";"7";"6";"Topic";"k_45Tot65Jaar_7";"45 tot 65 jaar";;;"Double";"x 1 000";"0";"Impossible"
+"11";"8";"6";"Topic";"k_65Tot80Jaar_8";"65 tot 80 jaar";;;"Double";"x 1 000";"0";"Impossible"
+"12";"9";"6";"Topic";"k_80JaarOfOuder_9";"80 jaar of ouder";;;"Double";"x 1 000";"0";"Impossible"
+"13";;"1";"TopicGroup";"";"Demografische druk";"Voor de jaren 1900, 1910, 1921 en 1931 zijn de gegevens ontleend aan de resultaten van de op 31 december 1899, 1909, 1920 en 1930 gehouden Volkstellingen.
+
+Demografische druk:
+De som van het aantal personen van 0 tot 20 jaar en 65 jaar of ouder in verhouding tot de personen van 20 tot 65 jaar. Dit cijfer geeft inzicht in de verhouding van het niet-werkende deel van de bevolking tot het werkende deel van de bevolking.";;;;;
+"14";"10";"13";"Topic";"GroeneDruk_10";"Groene druk";"De verhouding tussen het aantal personen van 0 tot 20 jaar en het aantal personen van 20 tot 65 jaar. Dit cijfer geeft inzicht in de verhouding van de jeugd tot het werkende deel van de bevolking.";;"Double";"%";"1";"Impossible"
+"15";"11";"13";"Topic";"GrijzeDruk_11";"Grijze druk";"De verhouding tussen het aantal personen van 65 jaar of ouder en het aantal personen van 20 tot 65 jaar. Dit cijfer geeft inzicht in de verhouding van de ouderen tot het werkende deel van de bevolking.";;"Double";"%";"1";"Impossible"
+"16";;"1";"TopicGroup";"";"Naar burgerlijke staat";"Voor de jaren 1900, 1910, 1921 en 1931 zijn de gegevens ontleend aan de resultaten van de op 31 december 1899, 1909, 1920 en 1930 gehouden Volkstellingen.
+
+Trendbreuk
+Vanaf 2010 is een kleine verschuiving tussen de verschillende burgerlijke staten opgetreden (minder ongehuwd en meer gescheiden respectievelijk verweduwd). Dit komt omdat in de periode 1998 tot 2010 niet alle burgerlijke staten 
+beschikbaar zijn in de bronbestanden die het CBS gebruikt. De burgerlijke staten 'verweduwd na partnerschap'  en 'gescheiden na partnerschap' worden daardoor binnen deze statistiek binnen deze periode genegeerd. Voor deze 
+statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt wat in de meeste gevallen ongehuwd was. Vanaf 2010 zijn alle burgerlijke staten beschikbaar.
+
+Burgerlijke staat:
+Formele positie van een persoon waarbij wordt verwezen naar het huwelijk en het geregistreerd partnerschap.
+
+Geregistreerd partnerschap:
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand. Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.
+
+Huwelijk:
+Wettelijke verbintenis tot het samenleven van twee personen. Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.";;;;;
+"17";"12";"16";"Topic";"TotaleBevolking_12";"Totale bevolking";;;"Double";"x 1 000";"0";"Impossible"
+"18";"13";"16";"Topic";"Ongehuwd_13";"Ongehuwd";"Vanaf 2010: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten of een geregistreerd partnerschap is aangegaan.
+1998 tot 2010: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten of een geregistreerd partnerschap heeft. Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS Gebruikt, zijn de burgerlijke staten 'verweduwd na partnerschap' en 'gescheiden na partnerschap' in deze statistiek binnen deze periode genegeerd. Voor deze statistiek betekent dit dat de burgerlijke staat van vóór het partnerschap is gebruikt. Dat was meestal ongehuwd.
+Tot 1998: burgerlijke staat die aangeeft dat een persoon nog nooit een huwelijk heeft gesloten.
+";;"Double";"x 1 000";"0";"Impossible"
+"19";"14";"16";"Topic";"Gehuwd_14";"Gehuwd";"Vanaf 1998: wettig gehuwd plus partnerschap.
+Tot 1998: wettig gehuwd.
+
+Wettig gehuwd:
+Burgerlijke staat die ontstaat na sluiting van een huwelijk.
+Inclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd.
+
+Partnerschap:
+Burgerlijke staat die ontstaat na het aangaan van een geregistreerd partnerschap.";;"Double";"x 1 000";"0";"Impossible"
+"20";"15";"16";"Topic";"Verweduwd_15";"Verweduwd";"Vanaf 2010: verweduwd na wettig huwelijk plus verweduwd na partnerschap.
+Tot 2010: verweduwd na wettig huwelijk.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt, is 'verweduwd na partnerschap' in deze statistiek binnen deze periode niet meegeteld.
+
+Verweduwd na wettig huwelijk:
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door overlijden van de partner.
+
+Verweduwd na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap door overlijden van de partner.";;"Double";"x 1 000";"0";"Impossible"
+"21";"16";"16";"Topic";"Gescheiden_16";"Gescheiden";"Vanaf 2010: gescheiden na wettig huwelijk plus gescheiden na partnerschap.
+Tot 2010: gescheiden na wettig huwelijk.
+Omdat in de periode 1998 tot 2010 niet alle burgerlijke staten beschikbaar zijn in de bronbestanden die het CBS gebruikt is 'gescheiden na partnerschap' in deze statistiek binnen deze periode niet meegeteld.
+
+Gescheiden na wettig huwelijk:
+Burgerlijke staat die ontstaat na ontbinding van een wettig huwelijk door echtscheiding.
+Exclusief personen die zijn gescheiden van tafel en bed, want zij blijven formeel gehuwd.
+
+Gescheiden na partnerschap:
+Burgerlijke staat die ontstaat na ontbinding van een geregistreerd partnerschap anders dan door het overlijden van de partner.";;"Double";"x 1 000";"0";"Impossible"
+"22";;"1";"TopicGroup";"";"Naar landsdeel";"Landsdeel:
+Regionale groepering van provincies. Nederland telt 4 landsdelen.";;;;;
+"23";"17";"22";"Topic";"TotaalBevolking_17";"Totaal bevolking";"Inclusief Centraal persoonsregister (1936 tot 1995), het openbaar lichaam 'de Noordoostelijke polder' (1943 tot 1963), 'de Zuidelijke IJsselmeerpolders' (sinds 1956), de niet provinciaal ingedeelde gemeenten Dronten (1972 tot 1986), Lelystad (1980 tot 1986), Almere en Zeewolde (1984 tot 1986).
+
+Centraal persoonsregister:
+Register waarin een beperkt aantal inwoners van Nederland was ingeschreven. Het betrof personen die behoorden tot de bevolking van Nederland, maar aan wie geen vaste woongemeente kon worden toegewezen.
+Het centraal persoonsregister werd bijgehouden door de toenmalige Rijksinspectie van de bevolkingsregisters. Sinds 1 oktober 1994 zijn deze personen ingeschreven in het bevolkingsregister van de gemeente 's-Gravenhage.";;"Double";"x 1 000";"0";"Impossible"
+"24";"18";"22";"Topic";"NoordNederland_18";"Noord-Nederland";"Groningen, Friesland, Drenthe.
+
+Grenswijziging per 01-01-1997:
+Ontvangen van Oost-Nederland (LD02), 81 hectare met 5 woningen en 10 inwoners.";;"Double";"x 1 000";"0";"Impossible"
+"25";"19";"22";"Topic";"OostNederland_19";"Oost-Nederland";"Overijssel, Flevoland, Gelderland.
+Exclusief het openbaar lichaam 'de Noordoostelijke polder'(1943 tot 1963), 'de Zuidelijke IJsselmeerpolders' (1956 tot 1986), de niet provinciaal ingedeelde gemeenten Dronten (1972 tot 1986), Lelystad (1980 tot 1986), Almere en Zeewolde (1984 tot 1986).
+
+Grenswijziging per 01-01-1998:
+Over naar West-Nederland (LD03), 489 hectare met 153 woningen en 454 inwoners.
+
+Grenswijziging per 01-01-1997:
+Over naar Noord-Nederland (LD01), 81 hectare met 5 woningen en 10 inwoners.
+
+Grenswijziging per 01-01-1995:
+Over naar West-Nederland (LD03), 33 hectare met 0 woningen en 0 inwoners.";;"Double";"x 1 000";"0";"Impossible"
+"26";"20";"22";"Topic";"WestNederland_20";"West-Nederland";"Utrecht, Noord-Holland, Zuid-Holland, Zeeland.
+
+Grenswijziging per 01-01-1998:
+Ontvangen van Oost-Nederland (LD02), 489 hectare met 153 woningen en 454 inwoners.
+
+Grenswijziging per 01-01-1995:
+Ontvangen van Oost-Nederland (LD02), 33 hectare met 0 woningen en 0 inwoners.";;"Double";"x 1 000";"0";"Impossible"
+"27";"21";"22";"Topic";"ZuidNederland_21";"Zuid-Nederland";"Noord-Brabant en Limburg.";;"Double";"x 1 000";"0";"Impossible"
+"28";;"1";"TopicGroup";"";"Grootteklasse van gemeenten";"De gemeenten zijn op grond van hun bevolkingsaantal in klassen ingedeeld.
+De jaren 1900 tot 1910 zijn gegroepeerd naar het inwonertal op 31 december 1899, de jaren 1910-1920 op 31 december 1909, 1921-1930 op 31 december 1920, de jaren 1931-1939 op 31 december 1930. De overige jaren zijn gegroepeerd naar het inwonertal van het waarnemingsjaar.";;;;;
+"29";;"28";"TopicGroup";"";"Bevolking";"Bevolking naar grootteklasse van gemeenten.";;;;;
+"30";"22";"29";"Topic";"TotaalBevolking_22";"Totaal bevolking";"Inclusief Centraal persoonsregister (1936 tot 1995).
+
+Centraal persoonsregister:
+Register waarin een beperkt aantal inwoners van Nederland was ingeschreven. Het betrof personen die behoorden tot de bevolking van Nederland, maar aan wie geen vaste woongemeente kon worden toegewezen. 
+Het centraal persoonsregister werd bijgehouden door de toenmalige Rijksinspectie van de bevolkingsregisters. Sinds 1 oktober 1994 zijn deze personen ingeschreven in het bevolkingsregister van de gemeente 's-Gravenhage.";;"Double";"x 1 000";"0";"Impossible"
+"31";"23";"29";"Topic";"InGemeentenMet5000Inwoners_23";"In gemeenten met < 5 000 inwoners";"Bevolking in gemeenten met minder dan 5 000 inwoners.";;"Double";"x 1 000";"0";"Impossible"
+"32";"24";"29";"Topic";"InGemeentenMet5000Tot20000Inw_24";"In gemeenten met 5 000 tot 20 000 inw...";"Bevolking in gemeenten met 5 000 tot 20 000 inwoners.";;"Double";"x 1 000";"0";"Impossible"
+"33";"25";"29";"Topic";"InGemeentenMet20000Tot50000Inw_25";"In gemeenten met 20 000 tot 50 000 inw..";"Bevolking in gemeenten met 20 000 tot 50 000 inwoners.
+Voor de jaren 1901 tot 1910 zijn de gegevens berekend met behulp van de verhouding in het jaar 1900.";;"Double";"x 1 000";"0";"Impossible"
+"34";"26";"29";"Topic";"InGemeentenMet50000Tot100000In_26";"In gemeenten met 50 000 tot 100 000 in..";"Bevolking in gemeenten met 50 000 tot 100 000 inwoners.
+Voor de jaren 1901 tot 1910 zijn de gegevens berekend met behulp van de verhouding in het jaar 1900.";;"Double";"x 1 000";"0";"Impossible"
+"35";"27";"29";"Topic";"InGemeentenMet100000OfMeerInw_27";"In gemeenten met 100 000 of meer inw...";"Bevolking in gemeenten met 100 000 of meer inwoners.";;"Double";"x 1 000";"0";"Impossible"
+"36";;"28";"TopicGroup";"";"Gemeenten";"Gemeenten naar grootteklasse van gemeenten.";;;;;
+"37";"28";"36";"Topic";"TotaalGemeenten_28";"Totaal gemeenten";"Totaal aantal gemeenten.";;"Double";"aantal";"0";"Impossible"
+"38";"29";"36";"Topic";"GemeentenMet5000Inwoners_29";"Gemeenten met < 5 000 inwoners";"Aantal gemeenten met minder dan 5 000 inwoners.";;"Double";"aantal";"0";"Impossible"
+"39";"30";"36";"Topic";"GemeentenMet5000Tot20000Inwoners_30";"Gemeenten met 5 000 tot 20 000 inwoners";"Aantal gemeenten met 5 000 tot 20 000 inwoners.";;"Double";"aantal";"0";"Impossible"
+"40";"31";"36";"Topic";"GemeentenMet20000Tot50000Inwoners_31";"Gemeenten met 20 000 tot 50 000 inwoners";"Aantal gemeenten met 20 000 tot 50 000 inwoners.";;"Double";"aantal";"0";"Impossible"
+"41";"32";"36";"Topic";"GemeentenMet50000Tot100000Inw_32";"Gemeenten met 50 000 tot 100 000 inw...";"Aantal gemeenten met 50 000 tot 100 000 inwoners.";;"Double";"aantal";"0";"Impossible"
+"42";"33";"36";"Topic";"GemeentenMet100000OfMeerInwoners_33";"Gemeenten met 100 000 of meer inwoners";"Aantal gemeenten met 100 000 of meer inwoners.";;"Double";"aantal";"0";"Impossible"
+"43";;"1";"TopicGroup";"";"Naar nationaliteit";"Voor de jaren 1900, 1910, 1921 en 1931 zijn de gegevens ontleend aan de uitkomsten van de op 31 december 1899, 1909, 1920 en 1930 gehouden Volkstellingen.
+De gegevens van 1947 zijn afkomstig van de Volkstelling van 31 mei van dat jaar. 
+De gegevens van de jaren 1969 tot 1973 zijn gedeeltelijk geschat. De gegevens over de jaren 1956 tot 1969 en 1973 tot 1976 zijn afkomstig van het Ministerie van Justitie.
+
+Nationaliteit:
+Het wettelijk onderdaan zijn van een bepaalde staat (staatsburgerschap).
+Personen kunnen meerdere nationaliteiten hebben. Om dubbeltellingen te voorkomen wordt in statistische overzichten aan personen die meerdere nationaliteiten hebben, slechts één nationaliteit toegekend. Daartoe worden prioriteringsregels gesteld. Die komen erop neer dat iemand met de Nederlandse nationaliteit in de statistiek steeds Nederlander is. Voor mensen die niet de Nederlandse nationaliteit bezitten, geldt de volgorde: nationaliteit van één van de Benelux-landen, nationaliteit van een staat binnen de Europese Unie, andere Europese nationaliteit, niet-Europese nationaliteit. 
+Personen die geen nationaliteit hebben, zijn staatloos.";;;;;
+"44";"34";"43";"Topic";"TotaalNietNederlands_34";"Totaal niet-Nederlands";"Niet-Nederlandse nationaliteit:
+Persoon die niet de Nederlandse nationaliteit bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld. Niet inbegrepen zijn: 
+- niet-Nederlandse diplomaten en niet-Nederlandse NAVO militairen die in Nederland wonen;
+- asielzoekers die korter dan zes maanden in de centrale opvang in Nederland verblijven en nog geen verblijfsvergunning hebben gekregen. 
+
+NAVO: Noord-Atlantische Verdragsorganisatie.";;"Double";"x 1 000";"1";"Impossible"
+"45";"35";"43";"Topic";"Amerikaans_35";"Amerikaans";;;"Double";"x 1 000";"1";"Impossible"
+"46";"36";"43";"Topic";"Belgisch_36";"Belgisch";;;"Double";"x 1 000";"1";"Impossible"
+"47";"37";"43";"Topic";"Brits_37";"Brits";;;"Double";"x 1 000";"1";"Impossible"
+"48";"38";"43";"Topic";"Duits_38";"Duits";;;"Double";"x 1 000";"1";"Impossible"
+"49";"39";"43";"Topic";"Italiaans_39";"Italiaans";;;"Double";"x 1 000";"1";"Impossible"
+"50";"40";"43";"Topic";"VoormaligJoegoslavisch_40";"Voormalig Joegoslavisch";"Betreft een samentelling van de nationaliteiten van de landen die tot het grondgebied van het Joegoslavië van vóór 1991/92 behoorden.
+
+In 1991/'92 is Joegoslavië opgesplitst in de landen Bosnië-Herzegovina, Federale Republiek Joegoslavië, Kroatië, Macedonië en Slovenië. 
+In 2003 is de naam 'Federale Republiek Joegoslavië' gewijzigd in 'Servië en Montenegro'.
+In 2006 is 'Servië en Montenegro' opgesplitst in 'Servië' respectievelijk 'Montenegro'.
+In 2008 heeft Kosovo zich afgesplitst van Servië.";;"Double";"x 1 000";"1";"Impossible"
+"51";"41";"43";"Topic";"Marokkaans_41";"Marokkaans";;;"Double";"x 1 000";"1";"Impossible"
+"52";"42";"43";"Topic";"Spaans_42";"Spaans";;;"Double";"x 1 000";"1";"Impossible"
+"53";"43";"43";"Topic";"Turks_43";"Turks";;;"Double";"x 1 000";"1";"Impossible"
+"54";"44";"1";"Topic";"MigratieachtergrondSuriname_44";"Migratieachtergrond: Suriname";"Voor de periode tot en met 1994 geldt: In Suriname geboren personen en de in Nederland geboren kinderen uit een in Suriname geboren moeder. Deze gegevens zijn gedeeltelijk geschat.
+Vanaf 1995 geldt: persoon van wie ten minste één ouder in Suriname is geboren. 
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+
+";;"Double";"x 1 000";"1";"Impossible"
+"55";"45";"1";"Topic";"MigratieachtergrondNederlandseAnt_45";"Migratieachtergrond: Nederlandse Ant...";"Migratieachtergrond: Nederlandse Antillen en  Aruba.
+
+Voor de periode tot en met 1994 geldt: Op de Nederlandse Antillen (inclusief Aruba) geboren personen en de in Nederland geboren kinderen uit een op de Nederlandse Antillen (inclusief Aruba) geboren moeder. Deze gegevens zijn gedeeltelijk geschat.
+Vanaf 1995 geldt: persoon van wie ten minste één ouder op de Nederlandse Antillen (inclusief Aruba) is geboren. 
+
+Nederlandse Antillen:
+De tot het Nederlandse koninkrijk behorende eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten.
+
+Migratieachtergrond:
+Kenmerk dat weergeeft met welk land een persoon verbonden is op basis van het geboorteland van de ouders of van zichzelf.
+Een persoon met een eerste generatie migratieachtergrond heeft als migratieachtergrond het land waar hij of zij is geboren. 
+Een persoon met een tweede generatie migratieachtergrond heeft als migratieachtergrond het geboorteland van de moeder, tenzij dat ook Nederland is. In dat geval is de migratieachtergrond bepaald door het geboorteland van de vader. 
+
+
+
+";;"Double";"x 1 000";"1";"Impossible"
+"56";;;"TopicGroup";"";"Particuliere huishoudens";"Van 1960 tot 1988 cijfers per 31 december, van 1988 tot 1995 cijfers halverwege het jaar, vanaf 1995 cijfers per 1 januari.
+
+Trendbreuk
+Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode wordt voor het bepalen van de huishoudenssamenstelling naast de gegevens uit de gemeentelijke basisadministratie (GBA) belastingdienstgegevens over samenwonende paren gebruikt.
+De uitkomsten op basis van de nieuwe productiemethode sluiten goed aan op de voorgaande uitkomsten, maar er treden vanaf 2011 wel kleine verschuivingen op in het aantal huishoudens naar samenstelling. De grootste verschuiving betreft het aantal overige huishoudens dat lager uitvalt.
+Het aantal personen in institutionele huishoudens ligt op 1 januari 2011 12 duizend hoger dan op 1 januari 2010. Ongeveer de helft van deze stijging is veroorzaakt door verbeteringen in de methode van waarneming.
+
+Particulier huishouden:
+Eén of meer personen die samen een woonruimte bewonen en zichzelf, dus niet-bedrijfsmatig, voorzien in de dagelijkse levensbehoeften.";;;;;
+"57";"46";"56";"Topic";"TotaalParticuliereHuishoudens_46";"Totaal particuliere huishoudens";"";;"Double";"x 1 000";"0";"Missing"
+"58";;"56";"TopicGroup";"";"Eenpersoonshuishoudens naar geslacht";"Eenpersoonshuishouden:
+Een particulier huishouden bestaande uit één persoon.";;;;;
+"59";"47";"58";"Topic";"MannenEnVrouwen_47";"Mannen en vrouwen";"";;"Double";"x 1 000";"0";"Missing"
+"60";"48";"58";"Topic";"Mannen_48";"Mannen";;;"Double";"x 1 000";"0";"Impossible"
+"61";"49";"58";"Topic";"Vrouwen_49";"Vrouwen";;;"Double";"x 1 000";"0";"Impossible"
+"62";"50";"56";"Topic";"Meerpersoonshuishouden_50";"Meerpersoonshuishouden";"Een particulier huishouden bestaande uit twee of meer personen.";;"Double";"x 1 000";"0";"Impossible"
+"63";"51";"56";"Topic";"GemiddeldeHuishoudensgrootte_51";"Gemiddelde huishoudensgrootte";"Gemiddeld aantal personen dat deel uitmaakt van een particulier huishouden.";;"Double";"aantal";"2";"Missing"
+"64";;;"TopicGroup";"";"Personen in huishoudens";"Van 1960 tot 1988 cijfers per 31 december, van 1988 tot 1995 cijfers halverwege het jaar, vanaf 1995 cijfers per 1 januari.
+Tot 1995 personen in particuliere huishoudens.
+Vanaf 1995 personen in particuliere huishoudens inclusief personen in institutionele huishoudens.
+
+Trendbreuk
+Vanaf 2011 is er voor de samenstelling van huishoudensgegevens gebruik gemaakt van een nieuwe productiemethode. In deze nieuwe methode wordt voor het bepalen van de huishoudenssamenstelling naast de gegevens uit de gemeentelijke basisadministratie (GBA) belastingdienstgegevens over samenwonende paren gebruikt.
+De uitkomsten op basis van de nieuwe productiemethode sluiten goed aan op de voorgaande uitkomsten, maar er treden vanaf 2011 wel kleine verschuivingen op in het aantal huishoudens naar samenstelling. De grootste verschuiving betreft het aantal overige huishoudens dat lager uitvalt.
+Het aantal personen in institutionele huishoudens ligt op 1 januari 2011 12 duizend hoger dan op 1 januari 2010. Ongeveer de helft van deze stijging is veroorzaakt door verbeteringen in de methode van waarneming.
+
+Particulier huishouden:
+Eén of meer personen die samen een woonruimte bewonen en zichzelf, dus niet-bedrijfsmatig, voorzien in de dagelijkse levensbehoeften.
+
+Institutioneel huishouden:
+Eén of meer personen die samen een woonruimte bewonen en daar bedrijfsmatig worden voorzien in dagelijkse levensbehoeften. Ook de huisvesting vindt bedrijfsmatig plaats.
+Het gaat om instellingen zoals verpleeg-, verzorgings- en kindertehuizen, gezinsvervangende tehuizen, revalidatiecentra en penitentiaire inrichtingen, waarin de personen in principe voor langere tijd (zullen) verblijven.";;;;;
+"65";"52";"64";"Topic";"TotaalPersonenInHuishouden_52";"Totaal personen in huishouden";"";;"Double";"x 1 000";"0";"Missing"
+"66";"53";"64";"Topic";"KinderenInHuishouden_53";"Kinderen in huishouden";"Thuiswonende kinderen in particuliere huishoudens.
+
+Van 1960 tot 1981 kinderen van de referentiepersoon van het huishouden.
+Vanaf 1981 kinderen van de referentiepersoon van het huishouden en kinderen van de vaste partner van de referentiepersoon van het huishouden.
+
+Thuiswonend kind:
+Persoon ongeacht leeftijd of burgerlijke staat die een kind-ouder relatie heeft met één of twee tot het huishouden behorende ouders. 
+Onder thuiswonende kinderen worden ook begrepen adoptie- en stiefkinderen, maar geen pleegkinderen.
+
+Referentiepersoon:
+Lid van het huishouden ten opzichte van wie de posities van de andere leden in het huishouden worden bepaald. Uit de leden van het huishouden wordt de referentiepersoon als volgt gekozen:
+- als er een paar is binnen het huishouden: de man;
+- als het paar van gelijk geslacht is: de oudste van het paar;
+- in een eenouderhuishouden: de ouder;
+- in een overig huishouden: de oudste meerderjarige man of - als deze ontbreekt: de oudste meerderjarige vrouw.";;"Double";"x 1 000";"0";"Missing"
+"67";;;"TopicGroup";"";"Bevolkingsontwikkeling";"Verandering van de omvang van de bevolking.";;;;;
+"68";"54";"67";"Topic";"Levendgeborenen_54";"Levendgeborenen";"Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Voor de jaren 1900 tot 1925: levend aangegeven kinderen.";;"Double";"x 1 000";"0";"Impossible"
+"69";"55";"67";"Topic";"Overledenen_55";"Overledenen";"Overledene:
+Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.
+
+Voor de jaren 1900 tot 1925 exclusief de vóór de geboorteaangifte overleden levendgeboren kinderen.
+Voor de periode 1940 tot 1946 exclusief de sterfgevallen van ca. 104 duizend gedeporteerde Joden en ca. 39 duizend gedeporteerde politieke gevangenen, tewerkgestelden en militairen in Duitse krijgsdienst.";;"Double";"x 1 000";"0";"Impossible"
+"70";"56";"67";"Topic";"Geboorteoverschot_56";"Geboorteoverschot";"Het aantal levendgeborenen min het aantal overledenen.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur. 
+Voor de jaren 1900 tot 1925: levend aangegeven kinderen.
+
+Overledene:
+Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.
+Voor de jaren 1900 tot 1925 exclusief de vóór de geboorteaangifte overleden levendgeboren kinderen.
+Voor de periode 1940 tot 1946 exclusief de sterfgevallen van ca. 104 duizend gedeporteerde Joden en ca. 39 duizend gedeporteerde politieke gevangenen, tewerkgestelden en militairen in Duitse krijgsdienst.";;"Double";"x 1 000";"0";"Impossible"
+"71";"57";"67";"Topic";"Immigratie_57";"Immigratie";"Vestiging van personen vanuit het buitenland in Nederland.
+Om als immigrant te kunnen worden geteld dienen deze personen ingeschreven te worden in de gemeentelijke bevolkingsregisters.
+Tot en met september 1994: een aantal speciale gevallen uitgezonderd, vond opneming voor een persoon met de Nederlandse nationaliteit plaats als deze zich voor langer dan 30 dagen dacht te vestigen en voor een persoon met een niet-Nederlandse nationaliteit als de verwachte vestigingsduur de 180 dagen overschreed.
+Vanaf oktober 1994: men wordt ingeschreven als men verwacht minimaal vier maanden in Nederland te blijven.
+
+Trendbreuk 
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie. 
+Door de verbetering in het produktieoproces is het saldo overige correcties sterk verminderd vanaf 2010.
+";;"Double";"x 1 000";"0";"Impossible"
+"72";"58";"67";"Topic";"EmigratieExclusiefAdministratieveC_58";"Emigratie exclusief administratieve c...";"Emigratie exclusief het saldo van de administratieve correcties.
+Vertrek van personen naar het buitenland.
+Tot en met september 1994 werd men uit het bevolkingsregister afgevoerd wanneer men Nederland voor langer dan 360 dagen dacht te verlaten.
+Met ingang van oktober 1994 geldt dat de verwachte verblijfsduur in het buitenland ten minste acht maanden bedraagt. Het gaat hier steeds om de aan de gemeente gemelde emigratie.
+Voor de periode 1940-1945 inclusief de sterfgevallen van ca. 104 duizend gedeporteerde Joden en ca. 39 duizend gedeporteerde politieke gevangenen, tewerkgestelden en militairen in Duitse krijgsdienst.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie. 
+Door de verbetering in het produktieoproces is het saldo overige correcties sterk verminderd vanaf 2010.
+";;"Double";"x 1 000";"0";"Impossible"
+"73";"59";"67";"Topic";"Migratiesaldo_59";"Migratiesaldo";"Personen die zich in Nederland vestigen min inwoners die Nederland verlaten om zich buiten Nederland te vestigen.
+Hierbij is het saldo van de administratieve correcties niet meegerekend.
+
+Trendbreuk buitenlandse migratie
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie. 
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.
+
+";;"Double";"x 1 000";"0";"Impossible"
+"74";"60";"67";"Topic";"TotaleBevolkingsgroei_60";"Totale bevolkingsgroei";"Bevolkingsgroei:
+De toe- of afname van de bevolking.
+Inclusief administratieve correcties en overige correcties.
+
+1920 en 1930: exclusief de op grond van de Volkstellingen op 31 december van deze jaren noodzakelijk gebleken correcties van het bevolkingscijfer (respectievelijk -61 duizend en -17 duizend). Deze aantallen kunnen worden beschouwd als het saldo van niet-geregistreerde buitenlandse migratie sinds de vorige volkstelling.
+1946 tot 1949: inclusief de correcties ten gevolge van de reconstructie van de bevolkingsregisters na de Tweede Wereldoorlog en op grond van de uitkomsten van de Volkstelling van 31 mei 1947.
+1949: inclusief de opneming van 10 duizend personen ten gevolge van de grenscorrecties met Duitsland op 23 april.
+1958: inclusief 18 duizend in woonoorden verblijvende Ambonezen, die in de laatste twee maanden van 1958 in de gemeentelijke bevolkingsregisters zijn opgenomen.
+1960: inclusief correcties op grond van de registercontrole bij de Volkstelling van 31 mei 1960.
+1963: na aftrek van 10 duizend personen, die ten gevolge van het Nederland-Duits grensverdrag op 1 augustus 1963 zijn overgegaan naar de Bondsrepubliek Duitsland.
+1971: inclusief correcties op grond van de registercontrole bij de Volkstelling van 28 februari 1971.
+
+Bevolkingsgroei:
+De toe- of afname van de bevolking.
+
+Administratieve correctie:
+Administratieve opneming of administratieve afvoering.
+
+Administratieve opneming:
+Opneming van een persoon in de bevolkingsregisters van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland.
+Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Administratieve afvoering:
+Verwijdering van een persoon uit het  gemeentelijke bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente. Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.
+
+Overige correcties:
+Verschillen in de bevolkingsomvang en samenstelling tussen twee opeenvolgende jaren die niet kunnen worden verklaard uit de door de gemeenten gedurende het jaar doorgevoerde wijzigingen in de bevolkingsregisters.";;"Double";"x 1 000";"0";"Impossible"
+"75";"61";"67";"Topic";"TotaleBevolkingsgroeiRelatief_61";"Totale bevolkingsgroei, relatief";"Totale bevolkingsgroei per honderd van de bevolking op 1 januari.
+Inclusief administratieve correcties en overige correcties.
+1920 en 1930: exclusief de op grond van de Volkstellingen op 31 december van deze jaren noodzakelijk gebleken correcties van het bevolkingscijfer (respectievelijk -61 duizend en -17 duizend). Deze aantallen kunnen worden beschouwd als het saldo van niet-geregistreerde buitenlandse migratie sinds de vorige volkstelling.
+1946 tot 1949: inclusief de correcties ten gevolge van de reconstructie van de bevolkingsregisters na de Tweede Wereldoorlog en op grond van de uitkomsten van de Volkstelling van 31 mei 1947.
+1949: inclusief de opneming van 10 duizend personen ten gevolge van de grenscorrecties met Duitsland op 23 april. 
+1958: inclusief 18 duizend in woonoorden verblijvende Ambonezen, die in de laatste twee maanden van 1958 in de gemeentelijke bevolkingsregisters zijn opgenomen.
+1960: inclusief correcties op grond van de registercontrole bij de Volkstelling van 31 mei 1960.
+1963: na aftrek van 10 duizend personen, die ten gevolge van het Nederland-Duits grensverdrag op 1 augustus 1963 zijn overgegaan naar de Bondsrepubliek Duitsland.
+1971: inclusief correcties op grond van de registercontrole bij de Volkstelling van 28 februari 1971.
+
+Bevolkingsgroei:
+De toe- of afname van de bevolking.
+
+Administratieve correctie:
+Administratieve opneming of administratieve afvoering.
+
+Administratieve opneming:
+Opneming van een persoon in de bevolkingsregisters van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland.
+Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Administratieve afvoering:
+Verwijdering van een persoon uit het  gemeentelijke bevolkingsregister van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente. Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.
+
+Overige correcties:
+Verschillen in de bevolkingsomvang en samenstelling tussen twee opeenvolgende jaren die niet kunnen worden verklaard uit de door de gemeenten gedurende het jaar doorgevoerde wijzigingen in de bevolkingsregisters.";;"Double";"%";"1";"Impossible"
+"76";;;"TopicGroup";"";"Geboorte";;;;;;
+"77";"62";"76";"Topic";"Levendgeborenen_62";"Levendgeborenen";"Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.";;"Double";"x 1 000";"0";"Impossible"
+"78";"63";"76";"Topic";"LevendgeborenenGeslachtsverhouding_63";"Levendgeborenen: geslachtsverhouding";"Levendgeboren jongens per duizend levendgeboren meisjes.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.";;"Double";"aantal";"0";"Impossible"
+"79";"64";"76";"Topic";"LevendgeborenenRelatief_64";"Levendgeborenen, relatief";"Levendgeborenen per duizend van de gemiddelde bevolking.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.";;"Double";"promille";"1";"Impossible"
+"80";"65";"76";"Topic";"GemiddeldKindertalPerVrouw_65";"Gemiddeld kindertal per vrouw";"De jaren 1900 tot 1936 bevatten geschatte cijfers.
+Door een wijziging in de gebruikte leeftijdsdefinitie is in de reeks een lichte trendbreuk waarneembaar. Tot en met 1949 is de leeftijd bepaald op de laatste verjaardag en vanaf 1950 als het verschil tussen geboortejaar van de moeder en het geboortejaar van het kind (leeftijd op 31 december).
+
+Gemiddeld kindertal per vrouw:
+Dit cijfer kan worden opgevat als het gemiddelde aantal kinderen dat een vrouw krijgt indien de in een bepaald jaar waargenomen leeftijdsspecifieke vruchtbaarheidscijfers gedurende haar leven zouden gelden.
+
+Leeftijdsspecifieke vruchtbaarheidscijfer:
+Levendgeboren kinderen die uit vrouwen in een bepaalde leeftijdsgroep in een bepaald jaar worden geboren gedeeld door het gemiddeld aantal vrouwen in die leeftijdsgroep in dat jaar.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.";;"Double";"aantal";"2";"Impossible"
+"81";;"76";"TopicGroup";"";"Levendgeborenen: leeftijd moeder, rel...";"Levendgeborenen naar leeftijd van de moeder per duizend van het gemiddeld aantal vrouwen in die leeftijdsgroep.
+
+Trendbreuk
+Door een wijziging in de gebruikte leeftijdsdefinitie is in de reeks een lichte trendbreuk waarneembaar. Tot en met 1949 is de leeftijd bepaald op de laatste verjaardag en vanaf 1950 als het verschil tussen het geboortejaar van de moeder en het geboortejaar van het kind (leeftijd op 31 december).
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.";;;;;
+"82";"66";"81";"Topic";"TotaalLevendgeborenen_66";"Totaal levendgeborenen";"Levendgeborenen per duizend van het gemiddeld aantal vrouwen van 15 tot 50 jaar (tot en met 1949: 15 tot 45 jaar).";;"Double";"promille";"1";"Impossible"
+"83";"67";"81";"Topic";"JongerDan20Jaar_67";"Jonger dan 20 jaar";"Levendgeborenen uit moeders van 15 tot 20 jaar per duizend van het gemiddeld aantal vrouwen in die leeftijd.";;"Double";"promille";"1";"Impossible"
+"84";"68";"81";"Topic";"k_20Tot25Jaar_68";"20 tot 25 jaar";"Levendgeborenen uit moeders van 20 tot 25 jaar per duizend van het gemiddeld aantal vrouwen in die leeftijd.";;"Double";"promille";"1";"Impossible"
+"85";"69";"81";"Topic";"k_25Tot30Jaar_69";"25 tot 30 jaar";"Levendgeborenen uit moeders van 25 tot 30 jaar per duizend van het gemiddeld aantal vrouwen in die leeftijd.";;"Double";"promille";"1";"Impossible"
+"86";"70";"81";"Topic";"k_30JaarOfOuder_70";"30 jaar of ouder";"Levendgeborenen uit moeders van 30 jaar of ouder per duizend van het gemiddeld aantal vrouwen in die leeftijd (tot en met 1949: 30 tot 45 jaar, vanaf 1950: 30 tot 50 jaar).";;"Double";"promille";"1";"Impossible"
+"87";;"76";"TopicGroup";"";"Levendgeborenen: volgorde geboorte ...";"Levendgeborenen naar volgorde van de geboorte uit de moeder.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.
+
+Volgorde van geboorte uit de moeder:
+De positie van het kind in de rangorde van levendgeboren kinderen uit de moeder. 
+Voor de jaren 1939-1949 is, wegens het ontbreken van deze gegevens, rangnummer uit het huwelijk gebruikt.";;;;;
+"88";"71";"87";"Topic";"k_1eKind_71";"1e kind";"Levendgeboren eerste kinderen (uit de moeder) per honderd van het totaal aantal levendgeborenen.";;"Double";"%";"1";"Impossible"
+"89";"72";"87";"Topic";"k_2eKind_72";"2e kind";"Levendgeboren tweede kinderen (uit de moeder) per honderd van het aantal levendgeborenen.";;"Double";"%";"1";"Impossible"
+"90";"73";"87";"Topic";"k_3eKind_73";"3e kind";"Levendgeboren derde kinderen (uit de moeder) per honderd van het totaal aantal levendgeborenen.";;"Double";"%";"1";"Impossible"
+"91";"74";"87";"Topic";"k_4eEnVolgendKind_74";"4e en volgend kind";"Levendgeboren vierde of volgende kinderen (uit de moeder) per honderd van het totaal aantal levendgeborenen.";;"Double";"%";"1";"Impossible"
+"92";"75";"76";"Topic";"LevendgeborenenMoederNietGehuwd_75";"Levendgeborenen: moeder niet-gehuwd";"Levendgeboren kinderen uit niet-gehuwde moeders per honderd levendgeborenen.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.
+
+Moeder niet-gehuwd:
+Levendgeborenen waarbij de moeder op het moment van de geboorte ongehuwd, verweduwd of gescheiden is. Uitzondering is als de moeder gehuwd is geweest en het huwelijk korter dan 306 dagen vóór de geboorte van het kind is ontbonden door het overlijden van haar echtgenoot. In dat geval wordt het kind geteld bij de gehuwde moeders.";;"Double";"%";"1";"Impossible"
+"93";;;"TopicGroup";"";"Sterfte";"Voor de jaren 1900-1924 exclusief de vóór de geboorteaangifte overleden levendgeboren kinderen.
+Voor de periode 1940 tot 1946 exclusief de sterfgevallen van ca. 104 duizend gedeporteerde Joden en ca. 39 duizend gedeporteerde politieke gevangenen, tewerkgestelden en militairen in Duitse krijgsdienst.
+
+Overledene:
+Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.";;;;;
+"94";"76";"93";"Topic";"Overledenen_76";"Overledenen";;;"Double";"x 1 000";"0";"Impossible"
+"95";"77";"93";"Topic";"OverledenenRelatief_77";"Overledenen, relatief";"Overledenen per duizend van de gemiddelde bevolking.";;"Double";"promille";"1";"Impossible"
+"96";"78";"93";"Topic";"OverledenenGeslachtsverhouding_78";"Overledenen: geslachtsverhouding";"Overledenen mannen per duizend overleden vrouwen.";;"Double";"aantal";"0";"Impossible"
+"97";"79";"93";"Topic";"LevensverwachtingBijGeboorteMannen_79";"Levensverwachting bij geboorte: mannen";"Het aantal te verwachten levensjaren voor mannen bij de geboorte.";;"Double";"jaar";"1";"Impossible"
+"98";"80";"93";"Topic";"LevensverwachtingBijGeboorteVrouwen_80";"Levensverwachting bij geboorte: vrouwen";"Het aantal te verwachten levensjaren voor vrouwen bij de geboorte.";;"Double";"jaar";"1";"Impossible"
+"99";;"93";"TopicGroup";"";"Doodgeborenen naar zwangerschapsduur";"Doodgeborene:
+Kind dat na een zwangerschapsduur van ten minste 24 weken dan wel 28 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft vertoond (ademhaling, hartactie, spieractie).";;;;;
+"100";"81";"99";"Topic";"k_28OfMeerWekenRelatief_81";"28 of meer weken, relatief";"Doodgeborenen per duizend geborenen.
+
+Doodgeborene:
+Kind dat na een zwangerschapsduur van ten minste 28 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft vertoond (ademhaling, hartactie, spieractie).
+
+Geborenen:
+Levendgeborenen plus doodgeborenen.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur. 
+Voor de jaren 1900 tot 1925 levenloos aangegeven kinderen.";;"Double";"promille";"1";"Impossible"
+"101";"82";"99";"Topic";"k_24OfMeerWekenRelatief_82";"24 of meer weken, relatief";"Doodgeborenen per duizend geborenen.
+
+Doodgeborene:
+Kind dat na een zwangerschapsduur van ten minste 24 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft vertoond (ademhaling, hartactie, spieractie).
+
+Geborenen:
+Levendgeborenen plus doodgeborenen.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur. Voor de jaren 1900 tot 1925 levenloos aangegeven kinderen.";;"Double";"promille";"1";"Impossible"
+"102";;"93";"TopicGroup";"";"Perinatale sterfte";"Doodgeborenen plus de overleden baby's binnen een week na de geboorte.
+
+Doodgeborene:
+Kind dat na een zwangerschapsduur van ten minste 24 weken dan wel 28 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft vertoond (ademhaling, hartactie, spieractie).";;;;;
+"103";;"102";"TopicGroup";"";"Perinatale sterfte (24+)";"Doodgeborenen plus de overleden baby's binnen een week na de geboorte.
+
+Doodgeborene:
+Kind dat na aan zwangerschapsduur van ten minste 24 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft getoond (ademhaling, hartactie, spieractie).
+In Nederland dient aangifte van een doodgeboren kind te worden gedaan indien een kind levenloos wordt geboren na een zwangerschapsduur langer dan 24 weken. Indien de zwangerschap minder dan 24 weken heeft geduurd mag men aangifte doen maar dit is niet verplicht. In de cijfers zijn deze aangiften buiten beschouwing gelaten.";;;;;
+"104";"83";"103";"Topic";"PerinataleSterfte24_83";"Perinatale sterfte (24+)";;;"Double";"x 1 000";"1";"Impossible"
+"105";"84";"103";"Topic";"PerinataleSterfte24Relatief_84";"Perinatale sterfte (24+), relatief";"Perinatale sterfte per duizend levendgeborenen plus doodgeborenen na een zwangerschapsduur van ten minste 24 weken.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"promille";"1";"Impossible"
+"106";;"102";"TopicGroup";"";"Perinatale sterfte (28+)";"Doodgeborenen plus de overleden baby's binnen een week na de geboorte.
+
+Doodgeborene:
+Kind dat na aan zwangerschapsduur van ten minste 28 weken ter wereld is gekomen en na de geboorte geen enkel teken van leven heeft getoond (ademhaling, hartactie, spieractie).
+Definitie volgens aanbevelingen van de Wereldgezondheidsorganisatie (WHO).
+In Nederland dient aangifte van een doodgeboren kind te worden gedaan indien een kind levenloos wordt geboren na een zwangerschapsduur langer dan 24 weken. Indien de zwangerschap minder dan 24 weken heeft geduurd mag men aangifte doen maar dit is niet verplicht.";;;;;
+"107";"85";"106";"Topic";"PerinataleSterfte28_85";"Perinatale sterfte (28+)";;;"Double";"x 1 000";"1";"Impossible"
+"108";"86";"106";"Topic";"PerinataleSterfte28Relatief_86";"Perinatale sterfte (28+), relatief";"Perinatale sterfte per duizend levendgeborenen plus doodgeborenen na een zwangerschapsduur van ten minste 28 weken.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.";;"Double";"promille";"1";"Impossible"
+"109";;"93";"TopicGroup";"";"Sterfte binnen 4 weken na de geboorte";"Levendgeboren kinderen die binnen 28 dagen na de geboorte zijn overleden.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.";;;;;
+"110";"87";"109";"Topic";"Sterfte4WekenNaDeGeboorte_87";"Sterfte < 4 weken na de geboorte";;;"Double";"x 1 000";"1";"Impossible"
+"111";"88";"109";"Topic";"Sterfte4WekenNaDeGeboorteRela_88";"Sterfte < 4 weken na de geboorte, rela..";"Sterfte binnen 4 weken na de geboorte per duizend levendgeborenen.";;"Double";"promille";"1";"Impossible"
+"112";;"93";"TopicGroup";"";"Sterfte binnen 1 jaar na de geboorte";"Levendgeborenen die vóór de eerste verjaardag zijn overleden.
+
+Levendgeborene:
+Kind dat na geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+Voor de jaren 1900 tot 1925 levend aangegeven kinderen.";;;;;
+"113";"89";"112";"Topic";"Sterfte1JaarNaDeGeboorte_89";"Sterfte < 1 jaar na de geboorte";;;"Double";"x 1 000";"1";"Impossible"
+"114";"90";"112";"Topic";"Sterfte1JaarNaDeGeboorteRela_90";"Sterfte < 1 jaar na de geboorte, rela...";"Sterfte binnen 1 jaar na de geboorte per duizend levendgeborenen.";;"Double";"promille";"1";"Impossible"
+"115";;"93";"TopicGroup";"";"Overledenen naar leeftijd";"Overledenen van 1 jaar of ouder per duizend van de gemiddelde bevolking met gelijke leeftijd.
+
+Trendbreuk
+Door een wijziging in de gebruikte leeftijdsdefinitie is in de reeks een lichte trendbreuk waarneembaar. Tot en met 1949 is de leeftijd bepaald op de laatste verjaardag en vanaf 1950 als het verschil tussen het jaar van overlijden en het geboortejaar van de overledene (leeftijd op 31 december).
+
+Overledene:
+Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.";;;;;
+"116";"91";"115";"Topic";"k_1Tot5Jaar_91";"1 tot 5 jaar";"Overledenen van 1 tot 5 jaar per duizend van het gemiddeld aantal kinderen van 1 tot 5 jaar.";;"Double";"promille";"1";"Impossible"
+"117";"92";"115";"Topic";"k_5Tot15Jaar_92";"5 tot 15 jaar";"Overledenen van 5 tot 15 jaar per duizend van het gemiddeld aantal kinderen van 5 tot 15 jaar.";;"Double";"promille";"1";"Impossible"
+"118";"93";"115";"Topic";"k_15Tot45Jaar_93";"15 tot 45 jaar";"Overledenen van 15 tot 45 jaar per duizend van het gemiddeld aantal inwoners van 15 tot 45 jaar.";;"Double";"promille";"1";"Impossible"
+"119";"94";"115";"Topic";"k_45Tot65Jaar_94";"45 tot 65 jaar";"Overledenen van 45 tot 65 jaar per duizend van het gemiddeld aantal inwoners van 45 tot 65 jaar.";;"Double";"promille";"1";"Impossible"
+"120";"95";"115";"Topic";"k_65Tot80Jaar_95";"65 tot 80 jaar";"Overledenen van 65 tot 80 jaar per duizend van het gemiddeld aantal inwoners van 65 tot 80 jaar.";;"Double";"promille";"1";"Impossible"
+"121";"96";"115";"Topic";"k_80JaarOfOuder_96";"80 jaar of ouder";"Overledenen van 80 jaar of ouder per duizend van het gemiddeld aantal inwoners van 80 jaar of ouder.";;"Double";"promille";"1";"Impossible"
+"122";;"93";"TopicGroup";"";"Overledenen naar doodsoorzaak";"Overledenen naar onderliggende doodsoorzaak per 100 duizend van de gemiddelde bevolking.
+
+Overledene:
+Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.
+
+Onderliggende doodsoorzaak:
+De onderliggende doodsoorzaak is de ziekte of de gebeurtenis waarmee de aaneenschakeling van gebeurtenissen die tot de dood leidde, startte. Men spreekt hierbij wel van de onderliggende ziekte, de primaire doodsoorzaak of het grondlijden. 
+Bij een zogenaamde uitwendige doodsoorzaak (niet-natuurlijke dood) wordt vrijwel altijd de gebeurtenis als onderliggende doodsoorzaak aangemerkt.
+
+1900 tot 1910: gebaseerd op de eerste revisie van de 'International Classification of Diseases, Injuries and Causes of Death’
+1911 tot 1920: gebaseerd op de tweede revisie van de 'International Classification of Diseases, Injuries and Causes of Death’
+1921 tot 1930: gebaseerd op de derde revisie van de 'International Classification of Diseases, Injuries and Causes of Death’
+1931 tot 1940: gebaseerd op de vierde revisie van de 'International Classification of Diseases, Injuries and Causes of Death’ 
+1941 tot 1949: gebaseerd op de vijfde revisie van de 'International Classification of Diseases, Injuries and Causes of Death’
+1950 tot 1957: gebaseerd op de zesde revisie van de 'International Classification of Diseases, Injuries and Causes of Death’
+1958 tot 1968: gebaseerd op de zevende revisie van de 'International Classification of Diseases, Injuries and Causes of Death’
+1969 tot 1978: gebaseerd op de achtste revisie van de 'International Classification of Diseases, Injuries and Causes of Death’
+1979 tot 1996: gebaseerd op de negende revisie van de 'International Classification of Diseases, Injuries and Causes of Death (ICD-9, WHO (World Health Organisation), Genêve 1977-1978).
+Vanaf 1996: gebaseerd op de tiende revisie van de 'International Classification of Diseases and Related Health Problems (ICD-10).
+De ICD classificatielijsten worden internationaal gebruikt voor de statistische classificatie van ziekten en met gezondheid verband houdende problemen.
+
+";;;;;
+"123";"97";"122";"Topic";"TotaalOverledenen_97";"Totaal  overledenen";"Totaal overledenen per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 001-E999.
+Officiële ICD-10 codes: A00-Y98.";;"Double";"per 100 000";"1";"Impossible"
+"124";;"122";"TopicGroup";"";"Infectieziekten en parasitaire ziekten";"Overledenen aan infectieziekten en parasitaire ziekten.";;;;;
+"125";"98";"124";"Topic";"TotaalInfectieEnParasitaireZiekten_98";"Totaal infectie- en parasitaire ziekten";"Overledenen aan infectie- en parasitaire ziekten per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 001-139.
+Officiële ICD-10 codes: A00-B99.";;"Double";"per 100 000";"1";"Impossible"
+"126";"99";"124";"Topic";"Tuberculose_99";"Tuberculose";"Overledenen aan tuberculose per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 010-018, 137.
+Officiële ICD-10 codes: A15-A19, B90.";;"Double";"per 100 000";"1";"Impossible"
+"127";;"122";"TopicGroup";"";"Kanker";"Overledenen aan kwaadaardige nieuwvormingen, inclusief nieuwvormingen van lymfatisch en bloedvormend weefsel.";;;;;
+"128";"100";"127";"Topic";"TotaalKanker_100";"Totaal kanker";"Overledenen aan kanker per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 140-208.
+Officiële ICD-10 codes: C00-C97.";;"Double";"per 100 000";"1";"Impossible"
+"129";"101";"127";"Topic";"KankerAanSpijsverteringsorganen_101";"Kanker aan spijsverteringsorganen";"Overledenen aan kanker aan spijsverteringsorganen per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 150-159.
+Officiële ICD-10 codes: C15-C26.";;"Double";"per 100 000";"1";"Impossible"
+"130";"102";"127";"Topic";"KankerAanAdemhalingsorganen_102";"Kanker aan ademhalingsorganen";"Overledenen aan kanker aan ademhalingsorganen per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 160-165.
+Officiële ICD-10 codes: C30-C39.";;"Double";"per 100 000";"1";"Impossible"
+"131";"103";"127";"Topic";"Borstkanker_103";"Borstkanker";"Overledenen aan borstkanker per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 174-175.
+Officiële ICD-10 codes: C50.";;"Double";"per 100 000";"1";"Impossible"
+"132";;"122";"TopicGroup";"";"Ziekten van hart en vaatstelsel";"Overledenen aan ziekten van hart en vaatstelsel.";;;;;
+"133";"104";"132";"Topic";"TotaalZiektenVanHartEnVaatstelsel_104";"Totaal ziekten van hart en vaatstelsel";"Overledenen aan ziekten van hart en vaatstelsel per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 390-459.
+Officiële ICD-10 codes: I00-I99.";;"Double";"per 100 000";"1";"Impossible"
+"134";"105";"132";"Topic";"ZiektenVanDeKransvaten_105";"Ziekten van de kransvaten";"Overledenen aan ziekten van de kransvaten per 100 duizend van de gemiddelde bevolking.
+Ziekten van de kransvaten (ischemische hartziekten) veroorzaakt door plaatselijke bloedeloosheid zoals acuut hartinfarct.
+Door afwijkende classificatie is de reeks vóór 1969 niet vergelijkbaar.
+Officiële ICD-9 codes: 410-414.
+Officiële ICD-10 codes: I20-I25.";;"Double";"per 100 000";"1";"Impossible"
+"135";"106";"132";"Topic";"Hersenvaatletsels_106";"Hersenvaatletsels";"Overledenen aan hersenvaatletsels per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 430-438.
+Officiële ICD-10 codes: I60-I69.
+
+Hersenvaatletsels: 
+aandoeningen van de bloedvaten van de hersenen, beroerte.
+
+";;"Double";"per 100 000";"1";"Impossible"
+"136";"107";"122";"Topic";"Griep_107";"Griep";"Overledenen aan griep (influenza) per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 487.
+Officiële ICD-10 codes: J10-J11.";;"Double";"per 100 000";"1";"Impossible"
+"137";"108";"122";"Topic";"Cara_108";"Cara";"Overledenen aan cara per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 490-494, 496.
+Officiële ICD-10 codes: J40-J47.
+
+Cara: 
+Chronische aspecifieke respiratorische aandoeningen, ziekten, zoals astma, gekenmerkt door langdurige, al of niet terugkerende hoest en kortademigheid.
+";;"Double";"per 100 000";"1";"Impossible"
+"138";"109";"122";"Topic";"ZiektenVanSpijsverteringsorganen_109";"Ziekten van spijsverteringsorganen";"Overledenen aan ziekten van de spijsverteringsorganen per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 520-579.
+Officiële ICD-10 codes: K00-K93.";;"Double";"per 100 000";"1";"Impossible"
+"139";;"122";"TopicGroup";"";"Ziekten urinewegen en geslachtsorganen";"Overledenen aan ziekten van de urinewegen en geslachtsorganen.";;;;;
+"140";"110";"139";"Topic";"TotaalZktnUrinewegenEnGeslachtso_110";"Totaal zktn urinewegen en geslachtso...";"Overledenen aan ziekten aan de urinewegen en geslachtsorganen per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 580-629.
+Officiële ICD-10 codes: N00-N99.";;"Double";"per 100 000";"1";"Impossible"
+"141";"111";"139";"Topic";"NierontstekingAandAanNierbuisjes_111";"Nierontsteking / aand. aan nierbuisjes";"Overledenen aan nierontsteking en aandoeningen aan de nierbuisjes per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 580-583.
+Officiële ICD-10 codes: N00-N05.";;"Double";"per 100 000";"1";"Impossible"
+"142";"112";"122";"Topic";"ComplZwSchapBevallingEnKraambed_112";"Compl. zw.schap, bevalling en kraambed";"Overledenen aan complicaties van zwangerschap, bevalling en kraambed (moedersterfte) per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 630-676.
+Officiële ICD-10 codes: O00-O99.";;"Double";"per 100 000";"1";"Impossible"
+"143";"113";"122";"Topic";"AangeborenAfwijkingen_113";"Aangeboren afwijkingen";"Overledenen aan aangeboren afwijkingen per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: 740-759.
+Officiële ICD-10 codes: Q00-Q99.";;"Double";"per 100 000";"1";"Impossible"
+"144";;"122";"TopicGroup";"";"Ongevallen, vergiftiging en geweld";"Overledenen aan ongevallen, vergiftiging en geweld.";;;;;
+"145";"114";"144";"Topic";"TotaalOngevallenVergiftEnGeweld_114";"Totaal ongevallen, vergift. en geweld";"Overledenen aan uitwendige oorzaken van letsel en vergiftiging en geweld per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: E800-E999.
+Officiële ICD-10 codes: V01-Y98.";;"Double";"per 100 000";"1";"Impossible"
+"146";"115";"144";"Topic";"Vervoersongevallen_115";"Vervoersongevallen";"Overledenen door vervoersongevallen (inclusief spoorweg-, scheepvaart- en luchtverkeersongevallen) per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: E800-E848.
+Officiële ICD-10 codes: V01-V99.";;"Double";"per 100 000";"1";"Impossible"
+"147";"116";"144";"Topic";"AccidenteleVal_116";"Accidentele val";"Overledenen door accidentele val per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: E880-E888.
+Officiële ICD-10 codes: W00-W19, X59.";;"Double";"per 100 000";"1";"Impossible"
+"148";"117";"144";"Topic";"AccidenteleVerdrinking_117";"Accidentele verdrinking";"Overledenen door accidentele verdrinking per 100 duizend van de gemiddelde bevolking.
+Officiële ICD-9 codes: E910.
+Officiële ICD-10 codes: W65-W74.";;"Double";"per 100 000";"1";"Impossible"
+"149";;"144";"TopicGroup";"";"Zelfdoding";"Overledenen door zelfdoding.
+Officiële ICD-9 codes: E950-E959.
+Officiële ICD-10 codes: X60-X84.";;;;;
+"150";"118";"149";"Topic";"Zelfdodingen_118";"Zelfdodingen";;;"Double";"aantal";"0";"Impossible"
+"151";"119";"149";"Topic";"ZelfdodingenRelatief_119";"Zelfdodingen, relatief";"Overledenen door zelfdoding per 100 duizend van de gemiddelde bevolking.";;"Double";"per 100 000";"1";"Impossible"
+"152";"120";"149";"Topic";"ZelfdodingenMannen_120";"Zelfdodingen: mannen";;;"Double";"aantal";"0";"Impossible"
+"153";"121";"149";"Topic";"ZelfdodingenVrouwen_121";"Zelfdodingen: vrouwen";;;"Double";"aantal";"0";"Impossible"
+"154";;;"TopicGroup";"";"Migratie";"Verhuizing van personen naar een ander woonadres in binnen- of buitenland.
+
+
+";;;;;
+"155";"122";"154";"Topic";"BinnenGemeentenVerhuisdePersonen_122";"Binnen gemeenten verhuisde personen";"Personen die verhuizen waarbij het oude en het nieuwe adres in dezelfde gemeente liggen.
+Wijzigingen van adres die het gevolg zijn van wijziging van straatnaam, huisnummer of iets dergelijks worden niet als verhuizing beschouwd.";;"Double";"x 1 000";"0";"Impossible"
+"156";;"154";"TopicGroup";"";"Tussen gemeenten verhuisde personen";"Personen die verhuizen waarbij het oude en het nieuwe adres in verschillende gemeenten liggen.
+Wijzigingen van adres door grenswijzigingen tussen gemeenten of door gemeentelijke herindelingen worden niet als verhuizing beschouwd.";;;;;
+"157";"123";"156";"Topic";"TotaalPersonen_123";"Totaal personen";"Totaal tussen gemeenten verhuisde personen.";;"Double";"x 1 000";"0";"Impossible"
+"158";"124";"156";"Topic";"TotaalPersonenRelatief_124";"Totaal personen, relatief";"Totaal tussen gemeenten verhuisde personen per duizend van de gemiddelde bevolking.";;"Double";"promille";"1";"Impossible"
+"159";"125";"156";"Topic";"BinnenEenZelfdeProvincieRelatief_125";"Binnen een zelfde provincie, relatief";"Tussen gemeenten maar binnen een zelfde provincie verhuisde personen per honderd van het totaal aantal tussen gemeenten verhuisde personen.
+
+Tussen gemeenten maar binnen een zelfde provincie verhuisde personen: 
+Personen die verhuizen waarbij het oude en het nieuwe adres in verschillende gemeenten maar binnen een zelfde provincie liggen.
+Wijzigingen van adres door grenswijzigingen tussen gemeenten of door gemeentelijke herindelingen worden niet als verhuizing beschouwd.";;"Double";"%";"1";"Impossible"
+"160";"126";"156";"Topic";"InGezinsverbandTot2010Relatief_126";"In gezinsverband (tot 2010), relatief";"In gezinsverband verhuisde personen tussen gemeenten per honderd van het totaal aantal tussen gemeenten verhuisde personen.
+
+Gezinsverband:
+Betreft de gezinssituatie tijdens de migratie. Personen verhuizen in gezinsverband als zij tegelijkertijd met één of meerpersonen die tot hetzelfde gezin behoren van eenzelfde adres verhuizen. Een persoon verhuist als alleengaande als er geen andere persoon is, behorende tot hetzelfde gezin, die tegelijkertijd van hetzelfde adres verhuist. Samenwoners kunnen niet apart worden onderscheiden, zij worden als alleengaanden gezien.
+Met ingang van 2010 zijn de aantallen naar plaats in het gezin niet meer beschikbaar.";;"Double";"%";"1";"Impossible"
+"161";;"154";"TopicGroup";"";"Buitenlandse migratie";"Personen die zich in Nederland vestigen (immigratie) of inwoners die Nederland verlaten om zich buiten Nederland te vestigen (emigratie).
+Niet-gemelde buitenlandse migratie wordt verantwoord in de statistiek van de administratieve correcties.
+
+Trendbreuk
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie. 
+Door de verbetering in het productieproces is het saldo overige correcties sterk verminderd vanaf 2010.";;;;;
+"162";;"161";"TopicGroup";"";"Naar nationaliteit";"Buitenlandse migratie naar nationaliteit.
+
+Nationaliteit:
+Het wettelijk onderdaan zijn van een bepaalde staat (staatsburgerschap). 
+Personen kunnen meerdere nationaliteiten hebben. Om dubbeltellingen te voorkomen wordt in statistische overzichten aan personen die meerdere nationaliteiten hebben, slechts één nationaliteit toegekend. Daartoe worden prioriteringsregels gesteld. Die komen erop neer dat iemand met de Nederlandse nationaliteit in de statistiek steeds Nederlander is. Voor mensen die niet de Nederlandse nationaliteit bezitten, geldt de volgorde: nationaliteit van één van de Benelux-landen, nationaliteit van een staat binnen de Europese Unie, andere Europese nationaliteit, niet-Europese nationaliteit.
+Personen die geen nationaliteit hebben, zijn staatloos.";;;;;
+"163";;"162";"TopicGroup";"";"Immigratie";"Vestiging van personen vanuit het buitenland in Nederland.
+Om als immigrant te kunnen worden geteld dienen deze personen ingeschreven te worden in de gemeentelijke bevolkingsregisters.
+Tot en met september 1994: een aantal speciale gevallen uitgezonderd, vond opneming voor een persoon met de Nederlandse nationaliteit plaats als deze zich voor langer dan 30 dagen dacht te vestigen en voor een persoon met een niet-Nederlandse nationaliteit als de verwachte vestigingsduur de 180 dagen overschreed.
+Vanaf oktober 1994: men wordt ingeschreven als men verwacht minimaal vier maanden in Nederland te blijven.";;;;;
+"164";"127";"163";"Topic";"TotaalImmigratie_127";"Totaal immigratie";;;"Double";"x 1 000";"1";"Impossible"
+"165";"128";"163";"Topic";"Nederlands_128";"Nederlands";"Immigratie van personen met de Nederlandse nationaliteit.
+Inclusief personen die worden 'Behandeld als Nederlander'. Bijvoorbeeld Molukkers die, op grond van de Faciliteitenwet Molukkers, waarin wordt bepaald dat zij - als ze niet het Nederlanderschap bezitten (maar Indonesiër of staatloos zijn) - worden behandeld als Nederlander. Ze zijn dus geen vreemdelingen in de zin van de Vreemdelingenwet maar ook geen Nederlander in de zin van de Rijkswet op het Nederlanderschap. Wel kunnen ze een Nederlands paspoort verkrijgen.";;"Double";"x 1 000";"1";"Impossible"
+"166";"129";"163";"Topic";"TotaalNietNederlands_129";"Totaal niet-Nederlands";"Totaal immigratie van niet-Nederlanders (inclusief nationaliteit onbekend).
+
+Niet-Nederlander:
+Persoon die niet de Nederlandse nationaliteit bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld. 
+Niet inbegrepen zijn:
+- niet-Nederlandse diplomaten en niet-Nederlandse NAVO militairen die in Nederland wonen;
+- asielzoekers die korter dan zes maanden in de centrale opvang in Nederland verblijven en nog geen verblijfsvergunning hebben gekregen.
+
+NAVO:
+Noord-Atlantische Verdragsorganisatie.";;"Double";"x 1 000";"1";"Impossible"
+"167";"130";"163";"Topic";"EuropeseUnieExclusiefNederland_130";"Europese Unie (exclusief Nederland)";"Totaal immigratie van personen met een nationaliteit behorend bij een land dat lid is van de Europese Unie (exclusief Nederland).
+
+Europese Unie:
+Samenwerkingsverband tussen Europese lidstaten.
+De Europese Unie bestaat uit de volgende landen (exclusief Nederland):
+1958-1974: België, Duitsland, Frankrijk, Italië en Luxemburg; 
+1975-1980: België, Denemarken, Duitsland, Frankrijk, Ierland, Italië, Luxemburg en Verenigd Koninkrijk; 
+1981-1985: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1986-1995: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Portugal, Spanje en Verenigd Koninkrijk;
+1996-2004: België, Duitsland, Denemarken, Finland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Oostenrijk, Portugal, Spanje, Verenigd Koninkrijk en Zweden;
+2005-2006: België, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden;
+Vanaf 2007: België, Bulgarije, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd  Koninkrijk en Zweden.";;"Double";"x 1 000";"1";"Impossible"
+"168";"131";"163";"Topic";"Marokkaans_131";"Marokkaans";;;"Double";"x 1 000";"1";"Impossible"
+"169";"132";"163";"Topic";"Turks_132";"Turks";;;"Double";"x 1 000";"1";"Impossible"
+"170";;"162";"TopicGroup";"";"Emigratie exclusief administratieve c...";"Emigratie exclusief het saldo van de administratieve correcties.
+Vertrek van personen naar het buitenland.
+Tot en met september 1994 werd men uit het bevolkingsregister afgevoerd wanneer men Nederland voor langer dan 360 dagen dacht te verlaten.
+Met ingang van oktober 1994 geldt dat de verwachte verblijfsduur in het buitenland ten minste acht maanden bedraagt. Het gaat hier steeds om de aan de gemeente gemelde emigratie.
+Voor de periode 1940 tot 1946: inclusief ca. 104 duizend gedeporteerde Joden en ca. 39 duizend gedeporteerde politieke gevangenen, tewerkgestelden en militairen in Duitse krijgsdienst, die in genoemde periode in het buitenland zijn overleden.";;;;;
+"171";"133";"170";"Topic";"TotaalEmigratieExclusiefAdministra_133";"Totaal emigratie exclusief administra...";"";;"Double";"x 1 000";"1";"Impossible"
+"172";"134";"170";"Topic";"Nederlands_134";"Nederlands";"Emigratie van personen met de Nederlandse nationaliteit.
+Inclusief personen die worden 'Behandeld als Nederlander'. Bijvoorbeeld Molukkers die, op grond van de Faciliteitenwet Molukkers, waarin wordt bepaald dat zij - als ze niet het Nederlanderschap bezitten (maar Indonesiër of staatloos zijn) - worden behandeld als Nederlander. Ze zijn dus geen vreemdelingen in de zin van de Vreemdelingenwet maar ook geen Nederlander in de zin van de Rijkswet op het Nederlanderschap. Wel kunnen ze een Nederlands paspoort verkrijgen.";;"Double";"x 1 000";"1";"Impossible"
+"173";"135";"170";"Topic";"TotaalNietNederlands_135";"Totaal niet-Nederlands";"Totaal emigratie van niet-Nederlanders (inclusief nationaliteit onbekend).
+
+Niet-Nederlander:
+Persoon die niet de Nederlandse nationaliteit bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld. 
+Niet inbegrepen zijn: 
+- niet-Nederlandse diplomaten en niet-Nederlandse NAVO militairen die in Nederland wonen;
+- asielzoekers die korter dan zes maanden in de centrale opvang in Nederland verblijven en nog geen verblijfsvergunning hebben gekregen.";;"Double";"x 1 000";"1";"Impossible"
+"174";"136";"170";"Topic";"EuropeseUnieExclusiefNederland_136";"Europese Unie (exclusief Nederland)";"Totaal emigratie van personen met een nationaliteit behorend bij een land dat lid is van de Europese Unie (exclusief Nederland).
+
+Europese Unie:
+Samenwerkingsverband tussen Europese lidstaten.
+De Europese Unie bestaat uit de volgende landen (exclusief Nederland):
+1958-1974: België, Duitsland, Frankrijk, Italië en Luxemburg;
+1975-1980: België, Denemarken, Duitsland, Frankrijk, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1981-1985: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1986-1995: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Portugal, Spanje en Verenigd Koninkrijk;
+1996-2004: België, Duitsland, Denemarken, Finland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Oostenrijk, Portugal, Spanje, Verenigd Koninkrijk en Zweden;
+2005-2006: België, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden;
+Vanaf 2007: België, Bulgarije, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden.";;"Double";"x 1 000";"1";"Impossible"
+"175";"137";"170";"Topic";"Marokkaans_137";"Marokkaans";;;"Double";"x 1 000";"1";"Impossible"
+"176";"138";"170";"Topic";"Turks_138";"Turks";;;"Double";"x 1 000";"1";"Impossible"
+"177";;"161";"TopicGroup";"";"Naar geboorteland";"Buitenlandse migratie naar geboorteland.
+
+Geboorteland:
+Het land waar een persoon geboren is.";;;;;
+"178";;"177";"TopicGroup";"";"Immigratie";"Vestiging van personen vanuit het buitenland in Nederland.
+Om als immigrant te kunnen worden geteld dienen deze personen ingeschreven te worden in de gemeentelijke bevolkingsregisters.
+Tot en met september 1994: een aantal speciale gevallen uitgezonderd, vond opneming voor een persoon met de Nederlandse nationaliteit plaats als deze zich voor langer dan 30 dagen dacht te vestigen en voor een persoon met een niet-Nederlandse nationaliteit als de verwachte vestigingsduur de 180 dagen overschreed.
+Vanaf oktober 1994: men wordt ingeschreven als men verwacht minimaal vier maanden in Nederland te blijven.";;;;;
+"179";"139";"178";"Topic";"TotaalImmigratie_139";"Totaal immigratie";"";;"Double";"x 1 000";"1";"Impossible"
+"180";"140";"178";"Topic";"Nederland_140";"Nederland";;;"Double";"x 1 000";"1";"Impossible"
+"181";"141";"178";"Topic";"EuropeseUnieExclusiefNederland_141";"Europese Unie (exclusief Nederland)";"Totaal immigratie van personen geboren in een land dat lid is van de Europese Unie (exclusief Nederland).
+
+Europese Unie:
+Samenwerkingsverband tussen Europese lidstaten.
+De Europese Unie bestaat uit de volgende landen (exclusief Nederland):
+1958-1974: België, Duitsland, Frankrijk, Italië en Luxemburg; 
+1975-1980: België, Denemarken, Duitsland, Frankrijk, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1981-1985: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1986-1995: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Portugal, Spanje en Verenigd Koninkrijk;
+1996-2004: België, Duitsland, Denemarken, Finland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Oostenrijk, Portugal, Spanje, Verenigd Koninkrijk en Zweden;
+2005-2006: België, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden;
+Vanaf 2007: België, Bulgarije, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden.";;"Double";"x 1 000";"1";"Impossible"
+"182";"142";"178";"Topic";"Indonesie_142";"Indonesië";"Indonesië, Portugees Timor, Nederlands Nieuwguinea en Nederlands Indië.";;"Double";"x 1 000";"1";"Impossible"
+"183";"143";"178";"Topic";"SurinameEnDeNederlandseAntillen_143";"Suriname en de Nederlandse Antillen";"Totaal immigratie van personen geboren in Suriname of de Nederlandse Antillen. 
+Vanaf 1986 inclusief Aruba.
+
+Nederlandse Antillen:
+De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten.";;"Double";"x 1 000";"1";"Impossible"
+"184";"144";"178";"Topic";"Suriname_144";"Suriname";;;"Double";"x 1 000";"1";"Impossible"
+"185";"145";"178";"Topic";"NederlandseAntillen_145";"Nederlandse Antillen";"Vanaf 1986 inclusief Aruba.
+
+Nederlandse Antillen:
+De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten.";;"Double";"x 1 000";"1";"Impossible"
+"186";"146";"178";"Topic";"Marokko_146";"Marokko";"Marokko, Spaanse Sahara, Ifni en Westelijke Sahara.";;"Double";"x 1 000";"1";"Impossible"
+"187";"147";"178";"Topic";"Turkije_147";"Turkije";;;"Double";"x 1 000";"1";"Impossible"
+"188";"148";"178";"Topic";"SpecifiekeEmigratiegebieden_148";"Specifieke emigratiegebieden";"Totaal immigratie van personen geboren in Australië, Canada, Nieuw-Zeeland, Zuid-Afrika of de Verenigde Staten van Amerika.
+
+Australië:
+Australië, Christmaseiland, Cocoseilanden en Tasmanië.
+
+Canada:
+Canada en Newfoundland.
+
+Verenigde Staten van Amerika:
+Verenigde Staten van Amerika, Hawaii-eilanden.";;"Double";"x 1 000";"1";"Impossible"
+"189";;"177";"TopicGroup";"";"Emigratie exclusief administratieve c...";"Emigratie exclusief het saldo van de administratieve correcties.
+Vertrek van personen naar het buitenland.
+Tot en met september 1994 werd men uit het bevolkingsregister afgevoerd wanneer men Nederland voor langer dan 360 dagen dacht te verlaten.
+Met ingang van oktober 1994 geldt dat de verwachte verblijfsduur in het buitenland ten minste acht maanden bedraagt. Het gaat hier steeds om de aan de gemeente gemelde emigratie. 
+Voor de periode 1940 tot 1946: inclusief ca. 104 duizend gedeporteerde Joden en ca. 39 duizend gedeporteerde politieke gevangenen, tewerkgestelden en militairen in Duitse krijgsdienst, die in genoemde periode in het buitenland zijn overleden.";;;;;
+"190";"149";"189";"Topic";"TotaalEmigratieExclusiefAdministra_149";"Totaal emigratie exclusief administra...";"";;"Double";"x 1 000";"1";"Impossible"
+"191";"150";"189";"Topic";"Nederland_150";"Nederland";;;"Double";"x 1 000";"1";"Impossible"
+"192";"151";"189";"Topic";"EuropeseUnieExclusiefNederland_151";"Europese Unie (exclusief Nederland)";"Totaal emigratie van personen geboren in een land dat lid is van de Europese Unie (exclusief Nederland).
+
+Europese Unie:
+Samenwerkingsverband tussen Europese lidstaten.
+De Europese Unie bestaat uit de volgende landen (exclusief Nederland):
+1958-1974: België, Duitsland, Frankrijk, Italië en Luxemburg;
+1975-1980: België, Denemarken, Duitsland, Frankrijk, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1981-1985: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1986-1995: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Portugal, Spanje en Verenigd Koninkrijk;
+1996-2004: België, Duitsland, Denemarken, Finland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Oostenrijk, Portugal, Spanje, Verenigd Koninkrijk en Zweden;
+2005-2006: België, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden;
+Vanaf 2007: België, Bulgarije, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden.";;"Double";"x 1 000";"1";"Impossible"
+"193";"152";"189";"Topic";"Indonesie_152";"Indonesië";"Indonesië, Portugees Timor, Nederlands Nieuwguinea en Nederlands Indië.";;"Double";"x 1 000";"1";"Impossible"
+"194";"153";"189";"Topic";"SurinameEnDeNederlandseAntillen_153";"Suriname en de Nederlandse Antillen";"Totaal emigratie van personen geboren in Suriname of de Nederlandse Antillen. Vanaf 1986 inclusief Aruba.
+
+Nederlandse Antillen:
+De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten.";;"Double";"x 1 000";"1";"Impossible"
+"195";"154";"189";"Topic";"Suriname_154";"Suriname";;;"Double";"x 1 000";"1";"Impossible"
+"196";"155";"189";"Topic";"NederlandseAntillen_155";"Nederlandse Antillen";"Vanaf 1986 inclusief Aruba.
+
+Nederlandse Antillen:
+De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten.";;"Double";"x 1 000";"1";"Impossible"
+"197";"156";"189";"Topic";"Marokko_156";"Marokko";"Marokko, Spaanse Sahara, Ifni en Westelijke Sahara.";;"Double";"x 1 000";"1";"Impossible"
+"198";"157";"189";"Topic";"Turkije_157";"Turkije";;;"Double";"x 1 000";"1";"Impossible"
+"199";"158";"189";"Topic";"SpecifiekeEmigratiegebieden_158";"Specifieke emigratiegebieden";"Totaal emigratie van personen geboren in Australië, Canada, Nieuw-Zeeland, Zuid-Afrika of de Verenigde Staten van Amerika.
+
+Australië:
+Australië, Christmaseiland, Cocoseilanden en Tasmanië.
+
+Canada:
+Canada en Newfoundland.
+
+Verenigde Staten van Amerika:
+Verenigde Staten van Amerika, Hawaii-eilanden.";;"Double";"x 1 000";"1";"Impossible"
+"200";;"161";"TopicGroup";"";"Naar land van herkomst / bestemming";"Buitenlandse migratie naar land van herkomst of bestemming.";;;;;
+"201";;"200";"TopicGroup";"";"Immigratie";"Vestiging van personen vanuit het buitenland in Nederland.
+Om als immigrant te kunnen worden geteld dienen deze personen ingeschreven te worden in de gemeentelijke bevolkingsregisters.
+Tot en met september 1994: een aantal speciale gevallen uitgezonderd, vond opneming voor een persoon met de Nederlandse nationaliteit plaats als deze zich voor langer dan 30 dagen dacht te vestigen en voor een persoon met een niet-Nederlandse nationaliteit als de verwachte vestigingsduur de 180 dagen overschreed.
+Vanaf oktober 1994: men wordt ingeschreven als men verwacht minimaal vier maanden in Nederland te blijven.";;;;;
+"202";"159";"201";"Topic";"TotaalImmigratie_159";"Totaal immigratie";;;"Double";"x 1 000";"1";"Impossible"
+"203";"160";"201";"Topic";"EuropeseUnieExclusiefNederland_160";"Europese Unie (exclusief Nederland)";"Totaal immigratie van personen afkomstig uit een land dat lid is van de Europese Unie (exclusief Nederland).
+
+Europese Unie:
+Samenwerkingsverband tussen Europese lidstaten.
+De Europese Unie bestaat uit de volgende landen (exclusief Nederland):
+1958-1974: België, Duitsland, Frankrijk, Italië en Luxemburg;
+1975-1980: België, Denemarken, Duitsland, Frankrijk, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1981-1985: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1986-1995: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Portugal, Spanje en Verenigd Koninkrijk;
+1996-2004: België, Duitsland, Denemarken, Finland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Oostenrijk, Portugal, Spanje, Verenigd Koninkrijk en Zweden;
+2005-2006: België, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden;
+Vanaf 2007: België, Bulgarije, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden.";;"Double";"x 1 000";"1";"Impossible"
+"204";"161";"201";"Topic";"IndonesieSurinameNederlandseAnt_161";"Indonesië + Suriname + Nederlandse Ant..";"Totaal immigratie van personen afkomstig uit Indonesië, Suriname of de Nederlandse Antillen.
+Vanaf 1986 inclusief Aruba.
+
+Indonesië:
+Indonesië, Portugees Timor, Nederlands Nieuwguinea en Nederlands Indië.
+
+Nederlandse Antillen:
+De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten. 
+";;"Double";"x 1 000";"1";"Impossible"
+"205";"162";"201";"Topic";"SurinameNederlandseAntillen_162";"Suriname + Nederlandse Antillen";"Totaal immigratie van personen afkomstig uit Suriname of de Nederlandse Antillen.
+Vanaf 1986 inclusief Aruba.
+
+Nederlandse Antillen:
+De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten.
+";;"Double";"x 1 000";"1";"Impossible"
+"206";"163";"201";"Topic";"Indonesie_163";"Indonesië";"Indonesië, Portugees Timor, Nederlands Nieuwguinea en Nederlands Indië.";;"Double";"x 1 000";"1";"Impossible"
+"207";"164";"201";"Topic";"Suriname_164";"Suriname";;;"Double";"x 1 000";"1";"Impossible"
+"208";"165";"201";"Topic";"NederlandseAntillen_165";"Nederlandse Antillen";"De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten. 
+
+Cijfers vanaf 1986 inclusief Aruba.";;"Double";"x 1 000";"1";"Impossible"
+"209";"166";"201";"Topic";"Marokko_166";"Marokko";;;"Double";"x 1 000";"1";"Impossible"
+"210";"167";"201";"Topic";"Turkije_167";"Turkije";;;"Double";"x 1 000";"1";"Impossible"
+"211";"168";"201";"Topic";"SpecifiekeEmigratiegebieden_168";"Specifieke emigratiegebieden";"Totaal immigratie van personen afkomstig uit Australië, Canada, Nieuw-Zeeland, Republiek van Zuid-Afrika of de Verenigde Staten van Amerika.";;"Double";"x 1 000";"1";"Impossible"
+"212";;"200";"TopicGroup";"";"Emigratie exclusief administratieve c...";"Emigratie exclusief het saldo van de administratieve correcties.
+Vertrek van personen naar het buitenland.
+Tot en met september 1994 werd men uit het bevolkingsregister afgevoerd wanneer men Nederland voor langer dan 360 dagen dacht te verlaten.
+Met ingang van oktober 1994 geldt dat de verwachte verblijfsduur in het buitenland ten minste acht maanden bedraagt. Het gaat hier steeds om de aan de gemeente gemelde emigratie. 
+Voor de periode 1940 tot 1946: inclusief ca. 104 duizend gedeporteerde Joden en ca. 39 duizend gedeporteerde politieke gevangenen, tewerkgestelden en militairen in Duitse krijgsdienst, die in genoemde periode in het buitenland zijn overleden.";;;;;
+"213";"169";"212";"Topic";"TotaalEmigratieExclusiefAdministra_169";"Totaal emigratie exclusief administra...";"";;"Double";"x 1 000";"1";"Impossible"
+"214";"170";"212";"Topic";"EuropeseUnieExclusiefNederland_170";"Europese Unie (exclusief Nederland)";"Totaal emigratie van personen naar een land dat lid is van de Europese Unie (exclusief Nederland).
+
+Europese Unie:
+Samenwerkingsverband tussen Europese lidstaten.
+De Europese Unie bestaat uit de volgende landen (exclusief Nederland):
+1958-1974: België, Duitsland, Frankrijk, Italië en Luxemburg;
+1975-1980: België, Denemarken, Duitsland, Frankrijk, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1981-1985: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg en Verenigd Koninkrijk;
+1986-1995: België, Denemarken, Duitsland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Portugal, Spanje en Verenigd Koninkrijk;
+1996-2004: België, Duitsland, Denemarken, Finland, Frankrijk, Griekenland, Ierland, Italië, Luxemburg, Oostenrijk, Portugal, Spanje, Verenigd Koninkrijk en Zweden;
+2005-2006: België, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden;
+Vanaf 2007: België, Bulgarije, Cyprus, Duitsland, Denemarken, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Malta, Oostenrijk, Polen, Portugal, Roemenië, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden.";;"Double";"x 1 000";"1";"Impossible"
+"215";"171";"212";"Topic";"IndonesieSurinameNederlandseAnt_171";"Indonesië + Suriname + Nederlandse Ant..";"Totaal emigratie van personen naar Indonesië, Suriname of de Nederlandse Antillen.
+Vanaf 1986 inclusief Aruba.
+
+Indonesië:
+Indonesië, Portugees Timor, Nederlands Nieuwguinea en Nederlands Indië.
+
+Nederlandse Antillen:
+De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten.
+";;"Double";"x 1 000";"1";"Impossible"
+"216";"172";"212";"Topic";"SurinameNederlandseAntillen_172";"Suriname + Nederlandse Antillen";"Totaal emigratie van personen naar Suriname of de Nederlandse Antillen.
+Vanaf 1986 inclusief Aruba.
+
+Nederlandse Antillen:
+De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten. 
+";;"Double";"x 1 000";"1";"Impossible"
+"217";"173";"212";"Topic";"Indonesie_173";"Indonesië";"Indonesië, Portugees Timor, Nederlands Nieuwguinea en Nederlands Indië.";;"Double";"x 1 000";"1";"Impossible"
+"218";"174";"212";"Topic";"Suriname_174";"Suriname";;;"Double";"x 1 000";"1";"Impossible"
+"219";"175";"212";"Topic";"NederlandseAntillen_175";"Nederlandse Antillen";"De eilanden Bonaire, Curaçao, Saba, Sint-Eustatius en Sint-Maarten. 
+Vanaf 1986 inclusief Aruba.";;"Double";"x 1 000";"1";"Impossible"
+"220";"176";"212";"Topic";"Marokko_176";"Marokko";;;"Double";"x 1 000";"1";"Impossible"
+"221";"177";"212";"Topic";"Turkije_177";"Turkije";;;"Double";"x 1 000";"1";"Impossible"
+"222";"178";"212";"Topic";"SpecifiekeEmigratiegebieden_178";"Specifieke emigratiegebieden";"Totaal emigratie van personen naar Australië, Canada, Nieuw-Zeeland, Republiek van Zuid-Afrika of de Verenigde Staten van Amerika.";;"Double";"x 1 000";"1";"Impossible"
+"223";;;"TopicGroup";"";"Huwelijkssluiting";"Het aangaan van een huwelijk.
+Sinds 1 april 2001 staat het huwelijk ook open voor paren van gelijk geslacht.
+Om een huwelijk in Nederland te mogen aangaan moeten beide partners de leeftijd van achttien jaren hebben bereikt. Onder bepaalde omstandigheden kan echter al tijdens de minderjarigheid een huwelijk worden gesloten. Dit kan wanneer beide  aanstaande echtgenoten tenminste 16 jaar oud zijn en de bruid zwanger is. Ook buiten de genoemde uitzonderingssituaties kan het gewenst zijn een huwelijk van minderjarigen te sluiten. De Minister van Justitie kan om belangrijke redenen ontheffing verlenen.
+Welke huwelijkssluitingen zijn geteld?
+Vanaf oktober 1994: huwelijken waarbij ten minste één van de partners in het bevolkingsregister van een Nederlandse gemeente staat ingeschreven, ongeacht het land waar het huwelijk is gesloten.
+Vanaf 1953 tot en met september 1994: in Nederland gesloten huwelijken, ongeacht of de partners al dan niet in het bevolkingsregister van een Nederlandse gemeente stonden ingeschreven.
+Voor de periode 1900 tot 1953 geldt de definitie die gelijk is aan de definitie voor de cijfers vanaf oktober 1994.
+
+Trendbreuk huwelijken en huwende personen
+Door een verbetering in het productieproces is vanaf 2010 een lichte stijging zichtbaar in de cijfers met betrekking tot huwelijkssluitingen en huwende personen. 
+Met ingang van 2010 worden vooral in het buitenland gesloten huwelijken beter waargenomen. 
+";;;;;
+"224";"179";"223";"Topic";"Huwelijkssluitingen_179";"Huwelijkssluitingen";;;"Double";"x 1 000";"0";"Impossible"
+"225";"180";"223";"Topic";"HuwelijkssluitingenPer1000Inwoners_180";"Huwelijkssluitingen per 1 000 inwoners";"Huwelijkssluitingen per duizend van de gemiddelde bevolking.";;"Double";"promille";"1";"Impossible"
+"226";"181";"223";"Topic";"HuwelijkssluitingenPer1000NietGe_181";"Huwelijkssluitingen per 1 000 niet-ge...";"Huwelijkssluitingen per duizend van het gemiddeld aantal niet-gehuwde mannen.
+Voor de jaren 1900 tot 1947 is het aantal mannen berekend met behulp van de resultaten van de Volkstellingen van 31 december 1899, 1909, 1920, 1930 en 31 mei 1947.
+";;"Double";"promille";"1";"Impossible"
+"227";"182";"223";"Topic";"BeidePartners1eMaalHuwendRelatief_182";"Beide partners 1e maal huwend, relatief";"Huwelijkssluitingen waarvan beide partners voor de eerste maal huwen per honderd van het totaal aantal huwelijkssluitingen.";;"Double";"%";"1";"Impossible"
+"228";"183";"223";"Topic";"GemiddeldeLeeftijdHuwendeMannen_183";"Gemiddelde leeftijd huwende mannen";"Voor de periode tot 1950 werd de leeftijd bepaald als leeftijd op de laatste verjaardag, vanaf 1950 is de leeftijd bepaald als het verschil tussen het jaar van huwelijkssluiting en het jaar van geboorte (leeftijd op 31 december). De verschillen zijn te verwaarlozen.";;"Double";"jaar";"1";"Impossible"
+"229";"184";"223";"Topic";"GemiddeldeLeeftijdHuwendeVrouwen_184";"Gemiddelde leeftijd huwende vrouwen";"Voor de periode tot 1950 werd de leeftijd bepaald als leeftijd op de laatste verjaardag, vanaf 1950 is de leeftijd bepaald als het verschil tussen het jaar van huwelijkssluiting en het jaar van geboorte (leeftijd op 31 december). De verschillen zijn te verwaarlozen.";;"Double";"jaar";"1";"Impossible"
+"230";;;"TopicGroup";"";"Huwelijksontbinding";"Beëindiging van het huwelijk door overlijden of echtscheiding.
+Exclusief beëindigingen van geregistreerde partnerschappen.
+
+Echtscheiding:
+Ontbinding van het huwelijk door een beschikking van de rechter.
+Voor de periode tot en met september 1994 ging het om alle beschikkingen door een Nederlandse rechter, ingeschreven in de registers van de burgerlijke stand. Het maakte daarbij niet uit of de bij die echtscheiding betrokken personen al dan niet inwoners van Nederland waren.
+Vanaf oktober 1994 gaat het om de echtscheidingen waarvan ten minste één van de partners staat ingeschreven in het bevolkingsregister van een Nederlandse gemeente. Het maakt hierbij niet uit of de echtscheiding al dan niet door een Nederlandse rechter is uitgesproken. 
+Een echtscheidingsbeschikking wordt ingeschreven in het echtscheidingsregister van de gemeente van huwelijkssluiting. Huwelijken die in het buitenland zijn gesloten en in Nederland zijn geregistreerd kunnen in Nederland worden ontbonden door inschrijving van de echtscheidingsbeschikking in het echtscheidingsregister van de gemeente 's-Gravenhage.
+
+Geregistreerd partnerschap:
+Een op het huwelijk lijkende relatie tussen twee personen van gelijk of van verschillend geslacht, vastgelegd in een akte van de Burgerlijke Stand.
+Per 1 januari 1998 is in Nederland het geregistreerd partnerschap ingevoerd.
+
+Huwelijk:
+Wettelijke verbintenis tot het samenleven van twee personen.
+Sinds april 2001 staat het huwelijk ook open voor personen van hetzelfde geslacht.";;;;;
+"231";"185";"230";"Topic";"Huwelijksontbindingen_185";"Huwelijksontbindingen";;;"Double";"x 1 000";"1";"Impossible"
+"232";"186";"230";"Topic";"HuwelijksontbindingenPer1000Inwoners_186";"Huwelijksontbindingen per 1 000 inwoners";"Huwelijksontbindingen per duizend van de gemiddelde bevolking.";;"Double";"promille";"1";"Impossible"
+"233";"187";"230";"Topic";"HuwelijksontbindingenPer1000Echtp_187";"Huwelijksontbindingen per 1 000 echtp...";"Huwelijksontbindingen per duizend van het gemiddeld aantal echtparen (gehuwde mannen).
+Voor de jaren 1900 tot 1947 is het aantal gehuwde mannen berekend met behulp van de resultaten van de Volkstellingen van 31 december 1899, 1909, 1920, 1930 en 31 mei 1947.";;"Double";"promille";"1";"Impossible"
+"234";;"230";"TopicGroup";"";"Door echtscheiding";"Exclusief beëindigingen van geregistreerde partnerschappen.";;;;;
+"235";"188";"234";"Topic";"Echtscheidingen_188";"Echtscheidingen";;;"Double";"x 1 000";"1";"Impossible"
+"236";"189";"234";"Topic";"EchtscheidingenPer1000Echtparen_189";"Echtscheidingen per 1 000 echtparen";"Echtscheidingen per duizend van het gemiddeld aantal echtparen (gehuwde mannen).
+Voor de jaren 1900 tot 1947 is het aantal gehuwde mannen berekend met behulp van de resultaten van de Volkstellingen van 31 december 1899, 1909, 1920, 1930 en 31 mei 1947.";;"Double";"promille";"1";"Impossible"
+"237";"190";"234";"Topic";"GemiddeldeLeeftijdMannen_190";"Gemiddelde leeftijd mannen";"Gemiddelde leeftijd bij echtscheiding voor mannen.
+Voor de periode tot 1950 werd de leeftijd bepaald als leeftijd op de laatste verjaardag, vanaf 1950 is de leeftijd bepaald als het verschil tussen het jaar van echtscheiding en het jaar van geboorte (leeftijd op 31 december).";;"Double";"jaar";"1";"Impossible"
+"238";"191";"234";"Topic";"GemiddeldeLeeftijdVrouwen_191";"Gemiddelde leeftijd vrouwen";"Gemiddelde leeftijd bij echtscheiding voor vrouwen.
+Voor de periode tot 1950 werd de leeftijd bepaald als leeftijd op de laatste verjaardag, vanaf 1950 is de leeftijd bepaald als het verschil tussen het jaar van echtscheiding en het jaar van geboorte (leeftijd op 31 december).";;"Double";"jaar";"1";"Impossible"
+"239";"192";"234";"Topic";"GemiddeldeHuwelijksduur_192";"Gemiddelde huwelijksduur";"Gemiddelde huwelijksduur bij echtscheiding.
+Voor de periode tot 1950 werd de duur bepaald als duur op de laatste (huwelijks)verjaardag, vanaf 1950 is de duur bepaald als het verschil tussen het jaar van echtscheiding en het jaar van huwelijkssluiting (duur op 31 december).";;"Double";"jaar";"1";"Impossible"
+"240";"193";"230";"Topic";"DoorOverlijdenVanDeManRelatief_193";"Door overlijden van de man, relatief";"Huwelijksontbindingen door overlijden van gehuwde mannen per duizend van het gemiddeld aantal echtparen (gehuwde mannen).
+Voor de jaren 1900 tot 1947 is het aantal gehuwde mannen berekend met behulp van de resultaten van de Volkstellingen van 31 december 1899, 1909, 1920, 1930 en 31 mei 1947.";;"Double";"promille";"1";"Impossible"
+"241";"194";"230";"Topic";"DoorOverlijdenVanDeVrouwRelatief_194";"Door overlijden van de vrouw, relatief";"Huwelijksontbindingen door overlijden van gehuwde vrouwen per duizend van het gemiddeld aantal echtparen (gehuwde mannen).
+Voor de jaren 1900 tot 1947 is het aantal gehuwde mannen berekend met behulp van de resultaten van de Volkstellingen van 31 december 1899, 1909, 1920, 1930 en 31 mei 1947.";;"Double";"promille";"1";"Impossible"
+"242";;;"TopicGroup";"";"Wijziging van nationaliteit";"Verandering van de nationaliteit (staatsburgerschap).
+Voor de jaren 1946 tot 1985 conform de bepalingen van de Wet op het Nederlanderschap en ingezetenschap van 12 december 1892, Staatsblad 268.
+Voor de jaren 1946 tot 1977 alleen naturalisaties. 
+Vanaf 1977 en volgende is dit uitgebreid met wijzigingen van nationaliteit als gevolg van andere regelingen zoals de toescheidingsovereenkomst met Suriname en de wijzigingen van nationaliteit door huwelijk en adoptie.
+Vanaf 1985 conform de met ingang van 1 januari 1985 van kracht geworden bepalingen van de Rijkswet op het Nederlanderschap van 19 december 1984, Staatsblad 628.";;;;;
+"243";"195";"242";"Topic";"SaldoWijzigingenVanNationaliteit_195";"Saldo wijzigingen van nationaliteit";"In Nederland wonende personen die de Nederlandse nationaliteit hebben gekregen (anders dan door geboorte) min de in Nederland wonende personen die de Nederlandse nationaliteit hebben verloren (anders dan door sterfte).";;"Double";"x 1 000";"0";"Impossible"
+"244";"196";"242";"Topic";"Naturalisatie_196";"Naturalisatie";"De naturalisaties van 1946 tot 1977 zijn inclusief die van de in het buitenland woonachtige personen.
+De naturalisaties vanaf 1977 zijn alleen van in Nederland woonachtige personen.
+
+Naturalisatie bij Koninklijk Besluit:
+Verlening van het Nederlanderschap vindt plaats door middel van zelfstandige- of medenaturalisatie.
+
+Zelfstandige naturalisatie:
+Het Nederlanderschap kan worden verleend aan niet-Nederlanders die daarom vragen en meerderjarig zijn. Er mogen geen bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in Nederland, de Nederlandse Antillen of Aruba. De verzoeker moet tenminste vijf jaren onmiddellijk voorafgaand aan het verzoek in Nederland, de Nederlandse Antillen of Aruba wonen. Verzoeker moet als ingeburgerd worden beschouwd in de Nederlandse, de Nederlands-Antilliaanse of Arubaanse samenleving. Hetgeen onder andere blijkt uit een redelijke kennis van de Nederlandse taal en de opname in de Nederlandse, de Nederlands-Antilliaanse of Arubaanse samenleving. Sinds 1 april 2003 wordt dit bepaald door middel van het afnemen van een naturalisatietoets (Besluit naturalisatietoets van 15 april 2002, in werking getreden op 1 april 2003). De toets sluit aan bij niveau 2 van de inburgeringstoets die wordt gebruikt in de Wet Inburgering Nieuwkomers. De toets kent een mondeling en schriftelijk deel. Wie al een inburgeringstraject op niveau 2 of hoger heeft afgelegd, en wie een ruime Nederlandse schoolervaring heeft, is van de toets vrijgesteld. Op de woonplaatstermijn van vijf jaar bestaat een aantal uitzonderingen. Zo geldt bijvoorbeeld deze termijn niet voor aanvragers die ooit de Nederlandse nationaliteit hebben gehad en is deze termijn slechts drie jaar voor aanvragers die gehuwd zijn met een Nederlander of een andere duurzame relatie met een Nederlander hebben.
+Een naturalisatieverzoek wordt onder meer afgewezen als ernstige vermoedens bestaan dat de aanvrager gevaar oplevert voor de openbare orde, de goede zeden, de volksgezondheid of de veiligheid van het Koninkrijk. Toch bestaan er mogelijkheden voor naturalisatie wanneer aan bepaalde voorwaarden niet is voldaan. Hierbij wordt opgemerkt dat het niet de bedoeling is om uitzonderingen op grote schaal mogelijk te maken. Er moet sprake zijn van bijzondere omstandigheden.
+
+Medenaturalisatie:
+Minderjarige kinderen die delen in de naturalisatie van de ouder(s).
+Hierbij geldt dat een minderjarige die de leeftijd van 12 jaar heeft bereikt inspraak heeft. Wil het kind niet worden genaturaliseerd, dan zal dat ook niet gebeuren.";;"Double";"x 1 000";"0";"Impossible"
+"245";"197";"242";"Topic";"NaturalisatieRelatief_197";"Naturalisatie, relatief";"Naturalisaties bij Koninklijk Besluit per duizend van het gemiddeld aantal niet-Nederlanders.
+De naturalisaties van 1946-1976 zijn inclusief die van de in het buitenland woonachtige personen. De naturalisaties vanaf 1977 zijn alleen van in Nederland woonachtige personen.
+
+Naturalisatie bij Koninklijk Besluit:
+Verlening van het Nederlanderschap vindt plaats door middel van zelfstandige- of medenaturalisatie.
+
+Zelfstandige naturalisatie:
+Het Nederlanderschap kan worden verleend aan niet-Nederlanders die daarom vragen en meerderjarig zijn. Er mogen geen bedenkingen bestaan tegen het verblijf voor onbepaalde tijd in Nederland, de Nederlandse Antillen of Aruba. De verzoeker moet tenminste vijf jaren onmiddellijk voorafgaand aan het verzoek in Nederland, de Nederlandse Antillen of Aruba wonen. Verzoeker moet als ingeburgerd worden beschouwd in de Nederlandse, de Nederlands-Antilliaanse of Arubaanse samenleving. Hetgeen onder andere blijkt uit een redelijke kennis van de Nederlandse taal en de opname in de Nederlandse, de Nederlands-Antilliaanse of Arubaanse samenleving. Sinds 1 april 2003 wordt dit bepaald door middel van het afnemen van een naturalisatietoets (Besluit naturalisatietoets van 15 april 2002, in werking getreden op 1 april 2003). De toets sluit aan bij niveau 2 van de inburgeringstoets die wordt gebruikt in de Wet Inburgering Nieuwkomers. De toets kent een mondeling en schriftelijk deel. Wie al een inburgeringstraject op niveau 2 of hoger heeft afgelegd, en wie een ruime Nederlandse schoolervaring heeft, is van de toets vrijgesteld. Op de woonplaatstermijn van vijf jaar bestaat een aantal uitzonderingen. Zo geldt bijvoorbeeld deze termijn niet voor aanvragers die ooit de Nederlandse nationaliteit hebben gehad en is deze termijn slechts drie jaar voor aanvragers die gehuwd zijn met een Nederlander of een andere duurzame relatie met een Nederlander hebben.
+Een naturalisatieverzoek wordt onder meer afgewezen als ernstige vermoedens bestaan dat de aanvrager gevaar oplevert voor de openbare orde, de goede zeden, de volksgezondheid of de veiligheid van het Koninkrijk. Toch bestaan er mogelijkheden voor naturalisatie wanneer aan bepaalde voorwaarden niet is voldaan. Hierbij wordt opgemerkt dat het niet de bedoeling is om uitzonderingen op grote schaal mogelijk te maken. Er moet sprake zijn van bijzondere omstandigheden.
+
+Medenaturalisatie:
+Minderjarige kinderen die delen in de naturalisatie van de ouder(s). 
+Hierbij geldt dat een minderjarige die de leeftijd van 12 jaar heeft bereikt inspraak heeft. Wil het kind niet worden genaturaliseerd, dan zal dat ook niet gebeuren.
+
+Niet-Nederlander:
+Persoon die niet de Nederlandse nationaliteit bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld. 
+Niet inbegrepen zijn:
+- niet-Nederlandse diplomaten en niet-Nederlandse NAVO militairen die in Nederland wonen;
+- asielzoekers die korter dan zes maanden in de centrale opvang in Nederland verblijven en nog geen verblijfsvergunning hebben gekregen.
+
+NAVO: 
+Noord-Atlantische Verdragsorganisatie.";;"Double";"promille";"1";"Impossible"
+"Perioden"
+Key;Title;Description;Status
+"1899JJ00";"1899";;"Definitief"
+"1900JJ00";"1900";;"Definitief"
+"1901JJ00";"1901";;"Definitief"
+"1902JJ00";"1902";;"Definitief"
+"1903JJ00";"1903";;"Definitief"
+"1904JJ00";"1904";;"Definitief"
+"1905JJ00";"1905";;"Definitief"
+"1906JJ00";"1906";;"Definitief"
+"1907JJ00";"1907";;"Definitief"
+"1908JJ00";"1908";;"Definitief"
+"1909JJ00";"1909";;"Definitief"
+"1910JJ00";"1910";;"Definitief"
+"1911JJ00";"1911";;"Definitief"
+"1912JJ00";"1912";;"Definitief"
+"1913JJ00";"1913";;"Definitief"
+"1914JJ00";"1914";;"Definitief"
+"1915JJ00";"1915";;"Definitief"
+"1916JJ00";"1916";;"Definitief"
+"1917JJ00";"1917";;"Definitief"
+"1918JJ00";"1918";;"Definitief"
+"1919JJ00";"1919";;"Definitief"
+"1920JJ00";"1920";;"Definitief"
+"1921JJ00";"1921";;"Definitief"
+"1922JJ00";"1922";;"Definitief"
+"1923JJ00";"1923";;"Definitief"
+"1924JJ00";"1924";;"Definitief"
+"1925JJ00";"1925";;"Definitief"
+"1926JJ00";"1926";;"Definitief"
+"1927JJ00";"1927";;"Definitief"
+"1928JJ00";"1928";;"Definitief"
+"1929JJ00";"1929";;"Definitief"
+"1930JJ00";"1930";;"Definitief"
+"1931JJ00";"1931";;"Definitief"
+"1932JJ00";"1932";;"Definitief"
+"1933JJ00";"1933";;"Definitief"
+"1934JJ00";"1934";;"Definitief"
+"1935JJ00";"1935";;"Definitief"
+"1936JJ00";"1936";;"Definitief"
+"1937JJ00";"1937";;"Definitief"
+"1938JJ00";"1938";;"Definitief"
+"1939JJ00";"1939";;"Definitief"
+"1940JJ00";"1940";;"Definitief"
+"1941JJ00";"1941";;"Definitief"
+"1942JJ00";"1942";;"Definitief"
+"1943JJ00";"1943";;"Definitief"
+"1944JJ00";"1944";;"Definitief"
+"1945JJ00";"1945";;"Definitief"
+"1946JJ00";"1946";;"Definitief"
+"1947JJ00";"1947";;"Definitief"
+"1948JJ00";"1948";;"Definitief"
+"1949JJ00";"1949";;"Definitief"
+"1950JJ00";"1950";;"Definitief"
+"1951JJ00";"1951";;"Definitief"
+"1952JJ00";"1952";;"Definitief"
+"1953JJ00";"1953";;"Definitief"
+"1954JJ00";"1954";;"Definitief"
+"1955JJ00";"1955";;"Definitief"
+"1956JJ00";"1956";;"Definitief"
+"1957JJ00";"1957";;"Definitief"
+"1958JJ00";"1958";;"Definitief"
+"1959JJ00";"1959";;"Definitief"
+"1960JJ00";"1960";;"Definitief"
+"1961JJ00";"1961";;"Definitief"
+"1962JJ00";"1962";;"Definitief"
+"1963JJ00";"1963";;"Definitief"
+"1964JJ00";"1964";;"Definitief"
+"1965JJ00";"1965";;"Definitief"
+"1966JJ00";"1966";;"Definitief"
+"1967JJ00";"1967";;"Definitief"
+"1968JJ00";"1968";;"Definitief"
+"1969JJ00";"1969";;"Definitief"
+"1970JJ00";"1970";;"Definitief"
+"1971JJ00";"1971";;"Definitief"
+"1972JJ00";"1972";;"Definitief"
+"1973JJ00";"1973";;"Definitief"
+"1974JJ00";"1974";;"Definitief"
+"1975JJ00";"1975";;"Definitief"
+"1976JJ00";"1976";;"Definitief"
+"1977JJ00";"1977";;"Definitief"
+"1978JJ00";"1978";;"Definitief"
+"1979JJ00";"1979";;"Definitief"
+"1980JJ00";"1980";;"Definitief"
+"1981JJ00";"1981";;"Definitief"
+"1982JJ00";"1982";;"Definitief"
+"1983JJ00";"1983";;"Definitief"
+"1984JJ00";"1984";;"Definitief"
+"1985JJ00";"1985";;"Definitief"
+"1986JJ00";"1986";;"Definitief"
+"1987JJ00";"1987";;"Definitief"
+"1988JJ00";"1988";;"Definitief"
+"1989JJ00";"1989";;"Definitief"
+"1990JJ00";"1990";;"Definitief"
+"1991JJ00";"1991";;"Definitief"
+"1992JJ00";"1992";;"Definitief"
+"1993JJ00";"1993";;"Definitief"
+"1994JJ00";"1994";;"Definitief"
+"1995JJ00";"1995";;"Definitief"
+"1996JJ00";"1996";;"Definitief"
+"1997JJ00";"1997";;"Definitief"
+"1998JJ00";"1998";;"Definitief"
+"1999JJ00";"1999";;"Definitief"
+"2000JJ00";"2000";;"Definitief"
+"2001JJ00";"2001";;"Definitief"
+"2002JJ00";"2002";;"Definitief"
+"2003JJ00";"2003";;"Definitief"
+"2004JJ00";"2004";;"Definitief"
+"2005JJ00";"2005";;"Definitief"
+"2006JJ00";"2006";;"Definitief"
+"2007JJ00";"2007";;"Definitief"
+"2008JJ00";"2008";;"Definitief"
+"2009JJ00";"2009";;"Definitief"
+"2010JJ00";"2010";;"Definitief"
+"2011JJ00";"2011";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013JJ00";"2013";"De cijfers in het onderwerp 'overledenen naar doodsoorzaak' zijn voorlopig. Alle andere cijfers over 2013 zijn definitief.";"Definitief"
+"2014JJ00";"2014";"De cijfers in het onderwerp 'overledenen naar doodsoorzaak' zijn voorlopig. Alle andere cijfers over 2013 zijn definitief.";"Definitief"
+"2015JJ00";"2015";;"Definitief"
+"2016JJ00";"2016";;"Definitief"
+"2017JJ00";"2017";;"Definitief"
