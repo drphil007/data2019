@@ -7,41 +7,94 @@ Number: 10517863 -->
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <title>D3 Linked Views</title>
     <script type="text/javascript" src="d3/d3.v3.js" ></script>
     <script src="https://d3js.org/d3.v5.js"></script>
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <h1>D3 Linked Views</h1>
-    <h2></h2>
-    <h3></h3>
-    <p>
-        <ul>Data Processing 2019 UvA, Philine Wairata 10517863</ul>
-        <ul><b>Population development & Migration flow of Indonesians in the Netherlands 1964-1952</b>
-        <a href="https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=37556&_theme=64">(Databron)</a></ul>
-        <ul>After the Second World War there was a high flow of immigration to the Netherlands, 
-            which largely consisted of immigrants from the former colony of the Dutch East Indies. 
-            On August 17, 1945, the proclamation of the Republic of Indonesia was by first president Sukarno. 
-            In 1946 there is a significant increase in migrants from Indonesia. In 1949 Queen Juliana signs 
-            the transfer of sovereignty to the United States of Indonesia. In 1950 the Royal Dutch-Indonesian
-            Army (KNIL) was abolished and the Netherlands brought the former soldiers and their families to 
-            the Netherlands because of political tensions and promised the immigrants a short stay in the Netherlands.
-            Nevertheless, they will never return and this is the beginning of the Moluccan community in the Netherlands,
-            the old military immigrants and their descendants strive for an independent Republic in the South Moluccas.
-            <a href="https://www.defensie.nl/onderwerpen/tijdlijn-militaire-geschiedenis/1945-1949-van-nederlands-indie-naar-indonesie">(InformatieBron)</a>
-        </ul>
-        <ul>
-            Below depicts an overview of the population growth (amount of people x 1000) of the Netherlands per year. 
-            <li>Immi = immigrants from Indonesia to the Netherlands, originally born in Indonesia (x 1000)</li>
-            <li>Emmi = Emmigrants from the Netherlands to Indonesia, originally born in Indonesia (x 1000) </li>
-            <li>other = all other factors contributing to population growth: Birth, Death, other Migrants (from other countries)</li>
-        </ul>
-    </p>
+    <div class="jumbotron text-center">
+        <h1>Population development & Migration flow of Indonesians in the Netherlands 1945-1953</h1>
+        <h2>D3 Linked Views</h2>
+        <p>Data Processing 2019 UvA, Philine Wairata 10517863</p> 
+    </div>
+
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <h3>The Data</h3>
+                <p>This Graphic depicts the population growth of the Netherlands in relation 
+                    to the immigration flow of Indonesians in a time period in which both countries
+                    have significant ties with eachoter. After the Second World War there was a high flow of 
+                    immigration to the Netherlands, which largely consisted of immigrants from the former colony
+                    of the Dutch East Indies, now Indonesia. To read the visualization one should
+                    understand the history behind the data which will help the reader follow significant
+                    events depicted in the visualization. Read the explanation and see the events
+                    depicted per year in the data visuals.
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <h3>it's History</h3>
+                <p> 
+                    On August 17, 1945, the proclamation of the Republic of Indonesia was by first president Sukarno. 
+                    In 1946 there is a significant increase in migrants from Indonesia. In 1949 Queen Juliana signs 
+                    the transfer of sovereignty to the United States of Indonesia.In 1950 the Royal Dutch-Indonesian
+                    Army (KNIL) was abolished and the Netherlands brought the former soldiers and their families to 
+                    the Netherlands because of political tensions and promised the immigrants a short stay in the Netherlands.
+                    Most migrants strive for an independent Republic in the South Moluccas for their own, independent from Indonesia.
+                    They identify themselves with 'Moluccan' instead of Indonesian.The last boat containing old militants sails in 1953. The migrants will never be returned, which is 
+                    the beginning of the Moluccan community in the Netherlands. Some immigrants still live in special communties
+                    and have up to 5 generations descendants. 
+                </p>
+            </div>
+            <div class="col-sm-4">
+                    <h3>Data Sources</h3>
+                    <p>More Informtion about history of the Indonesian immigrants and their relationship with the Netherlands can be found
+                    <a href="https://www.defensie.nl/onderwerpen/tijdlijn-militaire-geschiedenis/1945-1949-van-nederlands-indie-naar-indonesie">here.</a></p>
+                    <p>The Data source used for this visualization is from the Central Bureau of Statistics
+                    <a href="https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS&tableId=37556&_theme=64">(CBS).</a>
+                    </p>
+            </div>
+        </div>
+    </div>
     <div id='linkedviews'>
     </div>
     <script type="text/javascript" src="linkedviews.js"></script>
+    <span id="descriptionHolder">...</span>
+    <span id="description">
+    <ul>
+        Legend of the population growth (amount of people x 1000) of the Netherlands per year. 
+        <li>Immi = immigrants from Indonesia to the Netherlands, originally born in Indonesia (x 1000), % of population growth in NL.</li>
+        <li>Emmi = Emmigrants from the Netherlands to Indonesia, originally born in Indonesia (x 1000), % of population growth in NL. </li>
+        <li>other = all other factors contributing to population growth: Birth, Death, other Migrants (from other countries), % of population growth in NL.</li>
+    </ul>
+    </span>
+    <button onclick="showLegendDescription()" class="btn btn-primary btn-lg" id="btn">Show Legend Description</button>
+    <script>
+        function showLegendDescription() {
+            var descriptionHolder = document.getElementById("descriptionHolder");
+            var showText = document.getElementById("description");
+            var btnText = document.getElementById("btn");
+
+            if (descriptionHolder.style.display === "none") {
+                descriptionHolder.style.display = "inline";
+                btnText.innerHTML = "ShowLegend Description"; 
+                showText.style.display = "none";
+            } else {
+                descriptionHolder.style.display = "none";
+                btnText.innerHTML = "Hide Legend Description"; 
+                showText.style.display = "inline";
+            }
+        }
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 </html>
 

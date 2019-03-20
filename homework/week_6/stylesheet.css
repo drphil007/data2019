@@ -1,7 +1,11 @@
 body {
     width: 1060px;
     margin: 50px auto;
-    background-color: #C0C0C0;
+    background-color: silver !important;
+}
+
+#description {
+    display: none;
 }
 
 path {
