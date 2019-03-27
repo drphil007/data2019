@@ -5,7 +5,7 @@ body {
 }
 
 #description {
-    display: none;
+    display: inline-block;
 }
 
 path {
@@ -41,7 +41,7 @@ rect:hover {
 }
 
 .x.axis path {
-      display: none;
+      display: inline-block;
 }
 
 .legend {
@@ -53,7 +53,7 @@ rect:hover {
 
 .legend td{
     padding: 8px 10px;
-    vertical-align: bottom;
+    vertical-align: center;
 }
 
 .legendFreq, .legendPerc{

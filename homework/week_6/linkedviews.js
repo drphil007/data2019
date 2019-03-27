@@ -3,6 +3,11 @@ Name: Philine Wairata
 Number: 10517863  
 */
 
+var data;
+var json;
+var id;
+migrData = [];
+
 // Get json data from file
 $.getJSON("data.json", function(json) {
     
@@ -10,10 +15,13 @@ $.getJSON("data.json", function(json) {
     processData(json);
 });
 
-// function to process json formatted data
-function processData (json) {
+function processData(json){
+    var data = json;
+    transformData(data);
+    return data;
+}
 
-    let data = json;
+function transformData(data){
 
     var immigrationArray = [];
 
@@ -59,23 +67,26 @@ function processData (json) {
 
         var migrData = immigrationArray;
         
+        
         // set chart
         setCharts('#linkedviews',migrData);
+        return migrData;
 };
 
 
 // Set barchart and piechart with migration data
 function setCharts(id, migrData){
+
     
-    var barColor = 'darkred';
     function colors(c){ return {immi:"#ef8a62", emmi:"#f7f7f7", other:"#67a9cf"}[c]; }
-  
+    
     // set total population growth
     migrData.forEach(function(d){d.total= d.migr.immi + d.migr.emmi + d.migr.other });
-   
- 
+    
+    
     // function for barchart
     function setBar(fD){
+        var barColor = 'darkred';
         var bar={},    
         barDim = {t: 60, r: 0, b: 30, l: 0};
         barDim.w = 500 - barDim.l - barDim.r, 
@@ -99,8 +110,8 @@ function setCharts(id, migrData){
         var y = d3.scale.linear()
                         .range([barDim.h, 0])
                         .domain([0, d3.max(fD, function(d) { 
-                            if (d[1] < 0) { return 0;}
-                            else {return d[1];}
+                            if (d[1] < 0) { return 0; }
+                            else { return d[1]; }
                             })]);
 
         var bars = barsvg.selectAll(".bar")
@@ -121,10 +132,10 @@ function setCharts(id, migrData){
        
         bars.append("text")
             .text(function(d){ return d3.format(",")(d[1])})
-            .attr("x", function(d) { return x(d[0])+x.rangeBand()/2; })
-            .attr("y", function(d) { return y(d[1])-5; })
+            .attr("x", function(d) { return x(d[0]) + x.rangeBand() / 2; })
+            .attr("y", function(d) { return y(d[1]) -5; })
             .attr("text-anchor", "emmidle");
-        
+
         function mouseover(d){  
             var st = migrData.filter(function(s){ return s.Time == d[0];})[0],
                 nD = d3.keys(st.migr).map(function(s){ return {type:s, migr:st.migr[s]};});
@@ -149,7 +160,7 @@ function setCharts(id, migrData){
             bars.select("rect")
                 .transition()
                 .duration(500)
-                .attr("y", function(d) {return y(d[1]); })
+                .attr("y", function(d) { return y(d[1]); })
                 .attr("height", function(d) { return barDim.h - y(d[1]); })
                 .attr("fill", color);
 
@@ -157,7 +168,7 @@ function setCharts(id, migrData){
                 .transition()
                 .duration(500)
                 .text(function(d){ return d3.format(",")(d[1])})
-                .attr("y", function(d) {return y(d[1])-5; });            
+                .attr("y", function(d) { return y(d[1]) -5; });            
         }        
         return bar;
     }
@@ -172,7 +183,9 @@ function setCharts(id, migrData){
                        .append("svg")
                        .attr("width", pieDim.w).attr("height", pieDim.h)
                        .append("g")
-                       .attr("transform", "translate("+pieDim.w/2+","+pieDim.h/2+")");
+                       .attr("transform", "translate("+pieDim.w / 2 +","+pieDim.h / 2+")");
+
+                       piesvg.append('g').attr('class', 'labelName');
         
         var arc = d3.arc()
                     .outerRadius(pieDim.r - 10)
@@ -214,7 +227,7 @@ function setCharts(id, migrData){
         function animatePie(a) {
             var i = d3.interpolate(this._current, a);
             this._current = i(0);
-            return function(t) { return arc(i(t));    };
+            return function(t) { return arc(i(t)); };
         }    
         return pie;
     }
@@ -266,10 +279,10 @@ function setCharts(id, migrData){
 
             l.select(".legendmigr")
              .text(function(d){ return d3
-             .format(",")(d.migr);});
+             .format(",")(d.migr); });
 
             l.select(".legendPerc")
-             .text(function(d){ return getLegend(d,nD);});        
+             .text(function(d){ return getLegend(d,nD); });        
         }
         
         // return percentages for legend
@@ -282,11 +295,11 @@ function setCharts(id, migrData){
     
     // set migration values (for legend and pie chart)
     var migrationValues = ['immi','emmi','other'].map(function(d){ 
-        return {type:d, migr: d3.sum(migrData.map(function(t){ return t.migr[d];}))}; 
+        return {type:d, migr: d3.sum(migrData.map(function(t){ return t.migr[d]; }))}; 
     });    
     
     // set population growth per year (for barchart)
-    var barValues = migrData.map(function(d){return [d.Time,d.total];});
+    var barValues = migrData.map(function(d){ return [d.Time,d.total]; });
     
     // set all charts
     var bar = setBar(barValues), 
